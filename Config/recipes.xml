@@ -88,7 +88,7 @@
 			<ingredient name="ammoShotgunSlug" count="150"/>
 		</recipe>
 		<recipe name="resourcearmorPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="ammoarmorParts" count="50"/>
+			<ingredient name="armorParts" count="50"/>
 		</recipe>
 		<recipe name="resourceCanMegaCrushBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="drinkCanMegaCrush" count="10"/>
@@ -204,8 +204,8 @@
 		<recipe name="resourceCanBeefBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodCanBeef" count="10"/>
 		</recipe>
-		<recipe name="resourceCanCatBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="foodCanCat" count="10"/>
+		<recipe name="resourceCanCatfoodBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="foodCanCatfood" count="10"/>
 		</recipe>
 		<recipe name="resourceCanChickenBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodCanChicken" count="10"/>
@@ -213,8 +213,8 @@
 		<recipe name="resourceCanChiliBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodCanChili" count="10"/>
 		</recipe>
-		<recipe name="resourceCanDogBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="foodCanDog" count="10"/>
+		<recipe name="resourceCanDogfoodBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="foodCanDogfood" count="10"/>
 		</recipe>
 		<recipe name="resourceCanLambBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodCanLamb" count="10"/>
@@ -342,26 +342,26 @@
 		<recipe name="resourceVegetableStewBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodVegetableStew" count="10"/>
 		</recipe>
-		<recipe name="resourcegunBotRoboticsPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunBotRoboticsParts" count="50"/>
+		<recipe name="resourceBotRoboticsPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunBotRoboticsParts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunBowT1WoodenBowPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunBowT1WoodenBowParts" count="50"/>
+		<recipe name="resourceBowT1WoodenBowPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunBowT1WoodenBowParts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunExplosivesT3RocketLauncherPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunExplosivesT3RocketLauncherParts" count="50"/>
+		<recipe name="resourceExplosivesT3RocketLauncherPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunExplosivesT3RocketLauncherParts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunHandgunT1PistolPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunHandgunT1PistolParts" count="50"/>
+		<recipe name="resourceHandgunT1PistolPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunHandgunT1PistolParts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunMGT1AK47PartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunMGT1AK47Parts" count="50"/>
+		<recipe name="resourceMGT1AK47PartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunMGT1AK47Parts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunRifleT1HuntingRiflePartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunRifleT1HuntingRifleParts" count="50"/>
+		<recipe name="resourceRifleT1HuntingRiflePartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunRifleT1HuntingRifleParts" count="50"/>
 		</recipe>
-		<recipe name="resourcegunShotgunT1DoubleBarrelPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="gungunShotgunT1DoubleBarrelParts" count="50"/>
+		<recipe name="resourceShotgunT1DoubleBarrelPartsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="50"/>
 		</recipe>
 		<recipe name="resourceAloeCreamBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="medicalAloeCream" count="15"/>
@@ -606,12 +606,6 @@
 		<recipe name="resourceYuccaFibersBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceYuccaFibers" count="6000"/>
 		</recipe>
-		<recipe name="resourceMolotovCocktailBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="thrownMolotovCocktail" count="20"/>
-		</recipe>
-		<recipe name="resourcePipeBombBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="thrownPipeBomb" count="25"/>
-		</recipe>
 		<recipe name="resourceDynamiteBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="thrownDynamite" count="10"/>
 		</recipe>
@@ -620,6 +614,12 @@
 		</recipe>
 		<recipe name="resourceGrenadeContactBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="thrownGrenadeContact" count="25"/>
+		</recipe>
+		<recipe name="resourceAmmoMolotovCocktailBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="thrownAmmoMolotovCocktail" count="20"/>
+		</recipe>
+		<recipe name="resourceAmmoPipeBombBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="thrownAmmoPipeBomb" count="25"/>
 		</recipe>
 		<recipe name="resourceTimedChargeBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="thrownTimedCharge" count="10"/>
@@ -633,14 +633,14 @@
 		<recipe name="resourceCookingPotBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="toolCookingPot" count="3"/>
 		</recipe>
-		<recipe name="resourceMountainPine1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="treeMountainPine1m" count="500"/>
+		<recipe name="resourcePlantedMountainPine1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedMountainPine1m" count="500"/>
 		</recipe>
-		<recipe name="resourceOak1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="treeOak1m" count="500"/>
+		<recipe name="resourcePlantedOak1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedOak1m" count="500"/>
 		</recipe>
-		<recipe name="resourceWinterPine1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="treeWinterPine1m" count="500"/>
+		<recipe name="resourcePlantedWinterPine1mBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedWinterPine1m" count="500"/>
 		</recipe>
 		<recipe name="resourceBicycleChassisBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="vehicleBicycleChassis" count="50"/>
@@ -674,6 +674,12 @@
 		</recipe>
 		<recipe name="resourceWheelsBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="vehicleWheels" count="50"/>
+		</recipe>
+		<recipe name="resourceScrapPolymersBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="resourceScrapPolymers" count="1000"/>
+		</recipe>
+		<recipe name="resourceRadiatorBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="resourceRadiator" count="5"/>
 		</recipe>
 
 	</append>

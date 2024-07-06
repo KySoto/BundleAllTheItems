@@ -1,3 +1,4 @@
+
 <config>
 	<append xpath="/items">
 		<item name="KyBundleMaster">
@@ -17,6 +18,7 @@
 				<property name="Sound_start" value="close_garbage"/>
 			</property>
 		</item>
+		
 		<item name="resource44MagnumBulletAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo44MagnumBulletAP"/>
@@ -280,10 +282,10 @@
 		</item>
 		<item name="resourcearmorPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoarmorParts"/>
+			<property name="CustomIcon" value="armorParts"/>
 			<property name="DescriptionKey" value="resourcearmorPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="ammoarmorParts"/>
+				<property name="Create_item" value="armorParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
@@ -629,12 +631,12 @@
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourceCanCatBundleKy">
+		<item name="resourceCanCatfoodBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanCat"/>
-			<property name="DescriptionKey" value="resourceCanCatBundleKyDesc"/>
+			<property name="CustomIcon" value="foodCanCatfood"/>
+			<property name="DescriptionKey" value="resourceCanCatfoodBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="foodCanCat"/>
+				<property name="Create_item" value="foodCanCatfood"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
@@ -656,12 +658,12 @@
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourceCanDogBundleKy">
+		<item name="resourceCanDogfoodBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanDog"/>
-			<property name="DescriptionKey" value="resourceCanDogBundleKyDesc"/>
+			<property name="CustomIcon" value="foodCanDogfood"/>
+			<property name="DescriptionKey" value="resourceCanDogfoodBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="foodCanDog"/>
+				<property name="Create_item" value="foodCanDogfood"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
@@ -1043,66 +1045,66 @@
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcegunBotRoboticsPartsBundleKy">
+		<item name="resourceBotRoboticsPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunBotRoboticsParts"/>
-			<property name="DescriptionKey" value="resourcegunBotRoboticsPartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunBotRoboticsParts"/>
+			<property name="DescriptionKey" value="resourceBotRoboticsPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunBotRoboticsParts"/>
+				<property name="Create_item" value="gunBotRoboticsParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunBowT1WoodenBowPartsBundleKy">
+		<item name="resourceBowT1WoodenBowPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunBowT1WoodenBowParts"/>
-			<property name="DescriptionKey" value="resourcegunBowT1WoodenBowPartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunBowT1WoodenBowParts"/>
+			<property name="DescriptionKey" value="resourceBowT1WoodenBowPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunBowT1WoodenBowParts"/>
+				<property name="Create_item" value="gunBowT1WoodenBowParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunExplosivesT3RocketLauncherPartsBundleKy">
+		<item name="resourceExplosivesT3RocketLauncherPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunExplosivesT3RocketLauncherParts"/>
-			<property name="DescriptionKey" value="resourcegunExplosivesT3RocketLauncherPartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunExplosivesT3RocketLauncherParts"/>
+			<property name="DescriptionKey" value="resourceExplosivesT3RocketLauncherPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunExplosivesT3RocketLauncherParts"/>
+				<property name="Create_item" value="gunExplosivesT3RocketLauncherParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunHandgunT1PistolPartsBundleKy">
+		<item name="resourceHandgunT1PistolPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunHandgunT1PistolParts"/>
-			<property name="DescriptionKey" value="resourcegunHandgunT1PistolPartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunHandgunT1PistolParts"/>
+			<property name="DescriptionKey" value="resourceHandgunT1PistolPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunHandgunT1PistolParts"/>
+				<property name="Create_item" value="gunHandgunT1PistolParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunMGT1AK47PartsBundleKy">
+		<item name="resourceMGT1AK47PartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunMGT1AK47Parts"/>
-			<property name="DescriptionKey" value="resourcegunMGT1AK47PartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunMGT1AK47Parts"/>
+			<property name="DescriptionKey" value="resourceMGT1AK47PartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunMGT1AK47Parts"/>
+				<property name="Create_item" value="gunMGT1AK47Parts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunRifleT1HuntingRiflePartsBundleKy">
+		<item name="resourceRifleT1HuntingRiflePartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunRifleT1HuntingRifleParts"/>
-			<property name="DescriptionKey" value="resourcegunRifleT1HuntingRiflePartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunRifleT1HuntingRifleParts"/>
+			<property name="DescriptionKey" value="resourceRifleT1HuntingRiflePartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunRifleT1HuntingRifleParts"/>
+				<property name="Create_item" value="gunRifleT1HuntingRifleParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcegunShotgunT1DoubleBarrelPartsBundleKy">
+		<item name="resourceShotgunT1DoubleBarrelPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gungunShotgunT1DoubleBarrelParts"/>
-			<property name="DescriptionKey" value="resourcegunShotgunT1DoubleBarrelPartsBundleKyDesc"/>
+			<property name="CustomIcon" value="gunShotgunT1DoubleBarrelParts"/>
+			<property name="DescriptionKey" value="resourceShotgunT1DoubleBarrelPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="gungunShotgunT1DoubleBarrelParts"/>
+				<property name="Create_item" value="gunShotgunT1DoubleBarrelParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
@@ -1835,24 +1837,6 @@
 				<property name="Create_item_count" value="6000"/>
 			</property>
 		</item>
-		<item name="resourceMolotovCocktailBundleKy">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownMolotovCocktail"/>
-			<property name="DescriptionKey" value="resourceMolotovCocktailBundleKyDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownMolotovCocktail"/>
-				<property name="Create_item_count" value="20"/>
-			</property>
-		</item>
-		<item name="resourcePipeBombBundleKy">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownPipeBomb"/>
-			<property name="DescriptionKey" value="resourcePipeBombBundleKyDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownPipeBomb"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
 		<item name="resourceDynamiteBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="thrownDynamite"/>
@@ -1877,6 +1861,24 @@
 			<property name="DescriptionKey" value="resourceGrenadeContactBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="thrownGrenadeContact"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceAmmoMolotovCocktailBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownAmmoMolotovCocktail"/>
+			<property name="DescriptionKey" value="resourceAmmoMolotovCocktailBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownAmmoMolotovCocktail"/>
+				<property name="Create_item_count" value="20"/>
+			</property>
+		</item>
+		<item name="resourceAmmoPipeBombBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownAmmoPipeBomb"/>
+			<property name="DescriptionKey" value="resourceAmmoPipeBombBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownAmmoPipeBomb"/>
 				<property name="Create_item_count" value="25"/>
 			</property>
 		</item>
@@ -1916,30 +1918,30 @@
 				<property name="Create_item_count" value="3"/>
 			</property>
 		</item>
-		<item name="resourceMountainPine1mBundleKy">
+		<item name="resourcePlantedMountainPine1mBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treeMountainPine1m"/>
-			<property name="DescriptionKey" value="resourceMountainPine1mBundleKyDesc"/>
+			<property name="CustomIcon" value="treePlantedMountainPine1m"/>
+			<property name="DescriptionKey" value="resourcePlantedMountainPine1mBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treeMountainPine1m"/>
+				<property name="Create_item" value="treePlantedMountainPine1m"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceOak1mBundleKy">
+		<item name="resourcePlantedOak1mBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treeOak1m"/>
-			<property name="DescriptionKey" value="resourceOak1mBundleKyDesc"/>
+			<property name="CustomIcon" value="treePlantedOak1m"/>
+			<property name="DescriptionKey" value="resourcePlantedOak1mBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treeOak1m"/>
+				<property name="Create_item" value="treePlantedOak1m"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceWinterPine1mBundleKy">
+		<item name="resourcePlantedWinterPine1mBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treeWinterPine1m"/>
-			<property name="DescriptionKey" value="resourceWinterPine1mBundleKyDesc"/>
+			<property name="CustomIcon" value="treePlantedWinterPine1m"/>
+			<property name="DescriptionKey" value="resourcePlantedWinterPine1mBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treeWinterPine1m"/>
+				<property name="Create_item" value="treePlantedWinterPine1m"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
@@ -2040,6 +2042,24 @@
 			<property class="Action0">
 				<property name="Create_item" value="vehicleWheels"/>
 				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceScrapPolymersBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceScrapPolymers"/>
+			<property name="DescriptionKey" value="resourceScrapPolymersBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceScrapPolymers"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceRadiatorBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceRadiator"/>
+			<property name="DescriptionKey" value="resourceRadiatorBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceRadiator"/>
+				<property name="Create_item_count" value="5"/>
 			</property>
 		</item>
 

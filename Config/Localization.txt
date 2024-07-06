@@ -67,10 +67,10 @@ resourceBakedPotatoBundleKy,Bundle of Baked Potatos(10)
 resourceBlueberryPieBundleKy,Bundle of Blueberry Pies(10)
 resourceBoiledMeatBundleKy,Bundle of Boiled Meat(10)
 resourceCanBeefBundleKy,Bundle of Large Beef Rations(10)
-resourceCanCatBundleKy,Bundle of Cans of Cat Food(10)
+resourceCanCatfoodBundleKy,Bundle of Cans of Cat Food(10)
 resourceCanChickenBundleKy,Bundle of Chicken Rations(10)
 resourceCanChiliBundleKy,Bundle of Cans of Chili(10)
-resourceCanDogBundleKy,Bundle of Cans of Dog Food(10)
+resourceCanDogfoodBundleKy,Bundle of Cans of Dog Food(10)
 resourceCanLambBundleKy,Bundle of Lamb Rations(10)
 resourceCanMisoBundleKy,Bundle of Cans of Miso(10)
 resourceCanPastaBundleKy,Bundle of Cans of Pasta(10)
@@ -113,13 +113,13 @@ resourceSpaghettiBundleKy,Bundle of Spaghetti(10)
 resourceSteakAndPotatoBundleKy,Bundle of Steak and Potatos(10)
 resourceTunaFishGravyToastBundleKy,Bundle of Tuna Fish Gravy Toast(10)
 resourceVegetableStewBundleKy,Bundle of Vegetable Stew(10)
-resourcegunBotRoboticsPartsBundleKy,Bundle of Robotics Parts(50)
-resourcegunBowT1WoodenBowPartsBundleKy,Bundle of Bow / Crossbow Parts(50)
-resourcegunExplosivesT3RocketLauncherPartsBundleKy,Bundle of Rocket Launcher Parts(50)
-resourcegunHandgunT1PistolPartsBundleKy,Bundle of Handgun Parts(50)
-resourcegunMGT1AK47PartsBundleKy,Bundle of Machine Gun Parts(50)
-resourcegunRifleT1HuntingRiflePartsBundleKy,Bundle of Rifle Parts(50)
-resourcegunShotgunT1DoubleBarrelPartsBundleKy,Bundle of Shotgun Parts(50)
+resourceBotRoboticsPartsBundleKy,Bundle of Robotics Parts(50)
+resourceBowT1WoodenBowPartsBundleKy,Bundle of Bow / Crossbow Parts(50)
+resourceExplosivesT3RocketLauncherPartsBundleKy,Bundle of Rocket Launcher Parts(50)
+resourceHandgunT1PistolPartsBundleKy,Bundle of Handgun Parts(50)
+resourceMGT1AK47PartsBundleKy,Bundle of Machine Gun Parts(50)
+resourceRifleT1HuntingRiflePartsBundleKy,Bundle of Rifle Parts(50)
+resourceShotgunT1DoubleBarrelPartsBundleKy,Bundle of Shotgun Parts(50)
 resourceAloeCreamBundleKy,Bundle of Aloe Cream(15)
 resourceBandageBundleKy,Bundle of Bandages(10)
 resourceBloodBagBundleKy,Bundle of Blood Bags(15)
@@ -201,18 +201,18 @@ resourceSnowBallBundleKy,Bundle of Snow Balls(6000)
 resourceSpringBundleKy,Bundle of Spings(500)
 resourceTestosteroneExtractBundleKy,Bundle of Testosterone Extract(10)
 resourceYuccaFibersBundleKy,Bundle of Plant Fibers(6000)
-resourceMolotovCocktailBundleKy,Bundle of Molotov Cocktail(20)
-resourcePipeBombBundleKy,Bundle of Pipe Bombs(25)
 resourceDynamiteBundleKy,Bundle of Dynamite(10)
 resourceGrenadeBundleKy,Bundle of Grenades(25)
 resourceGrenadeContactBundleKy,Bundle of Contact Grenades(25)
+resourceAmmoMolotovCocktailBundleKy,Bundle of Molotov Cocktail(20)
+resourceAmmoPipeBombBundleKy,Bundle of Pipe Bombs(25)
 resourceTimedChargeBundleKy,Bundle of Timed Charges(10)
 resourceBeakerBundleKy,Bundle of Beakers(10)
 resourceCookingGrillBundleKy,Bundle of Cooking Grills(3)
 resourceCookingPotBundleKy,Bundle of Cooking Pots(3)
-resourceMountainPine1mBundleKy,Bundle of Pine Seeds(500)
-resourceOak1mBundleKy,Bundle of Oak Seeds(500)
-resourceWinterPine1mBundleKy,Bundle of Blue Spruce Seeds(500)
+resourcePlantedMountainPine1mBundleKy,Bundle of Pine Seeds(500)
+resourcePlantedOak1mBundleKy,Bundle of Oak Seeds(500)
+resourcePlantedWinterPine1mBundleKy,Bundle of Blue Spruce Seeds(500)
 resourceBicycleChassisBundleKy,Bundle of Bicycle Chassis(50)
 resourceBicycleHandlebarsBundleKy,Bundle of Bicycle Handlebars(50)
 resourceGyroCopterAccessoriesBundleKy,Bundle of Gyrocopter Accessories(50)
@@ -224,6 +224,8 @@ resourceMotorcycleHandlebarsBundleKy,Bundle of Motorcycle Handlebars(50)
 resourceTruck4x4AccessoriesBundleKy,Bundle of 4x4 Truck Accessories(50)
 resourceTruck4x4ChassisBundleKy,Bundle of 4x4 Truck Chassis(50)
 resourceWheelsBundleKy,Bundle of Wheels(50)
+resourceScrapPolymersBundleKy,Bundle of Scrap Polymers(1000)
+resourceRadiatorBundleKy,Bundle of Radiators(5)
 resource44MagnumBulletAPBundleKyDesc,This is a compact stack of AP 44 Magnum Bullets. Use this item to open and unpack it.
 resource44MagnumBulletBallBundleKyDesc,This is a compact stack of 44 Magnum Bullets. Use this item to open and unpack it.
 resource44MagnumBulletHPBundleKyDesc,This is a compact stack of HP 44 Magnum Bullets. Use this item to open and unpack it.
@@ -292,10 +294,10 @@ resourceBakedPotatoBundleKyDesc,This is a compact stack of Baked Potatos. Use th
 resourceBlueberryPieBundleKyDesc,This is a compact stack of Blueberry Pies. Use this item to open and unpack it.
 resourceBoiledMeatBundleKyDesc,This is a compact stack of Boiled Meat. Use this item to open and unpack it.
 resourceCanBeefBundleKyDesc,This is a compact stack of Large Beef Rations. Use this item to open and unpack it.
-resourceCanCatBundleKyDesc,This is a compact stack of Cans of Cat Food. Use this item to open and unpack it.
+resourceCanCatfoodBundleKyDesc,This is a compact stack of Cans of Cat Food. Use this item to open and unpack it.
 resourceCanChickenBundleKyDesc,This is a compact stack of Chicken Rations. Use this item to open and unpack it.
 resourceCanChiliBundleKyDesc,This is a compact stack of Cans of Chili. Use this item to open and unpack it.
-resourceCanDogBundleKyDesc,This is a compact stack of Cans of Dog Food. Use this item to open and unpack it.
+resourceCanDogfoodBundleKyDesc,This is a compact stack of Cans of Dog Food. Use this item to open and unpack it.
 resourceCanLambBundleKyDesc,This is a compact stack of Lamb Rations. Use this item to open and unpack it.
 resourceCanMisoBundleKyDesc,This is a compact stack of Cans of Miso. Use this item to open and unpack it.
 resourceCanPastaBundleKyDesc,This is a compact stack of Cans of Pasta. Use this item to open and unpack it.
@@ -338,13 +340,13 @@ resourceSpaghettiBundleKyDesc,This is a compact stack of Spaghetti. Use this ite
 resourceSteakAndPotatoBundleKyDesc,This is a compact stack of Steak and Potatos. Use this item to open and unpack it.
 resourceTunaFishGravyToastBundleKyDesc,This is a compact stack of Tuna Fish Gravy Toast. Use this item to open and unpack it.
 resourceVegetableStewBundleKyDesc,This is a compact stack of Vegetable Stew. Use this item to open and unpack it.
-resourcegunBotRoboticsPartsBundleKyDesc,This is a compact stack of Robotics Parts. Use this item to open and unpack it.
-resourcegunBowT1WoodenBowPartsBundleKyDesc,This is a compact stack of Bow / Crossbow Parts. Use this item to open and unpack it.
-resourcegunExplosivesT3RocketLauncherPartsBundleKyDesc,This is a compact stack of Rocket Launcher Parts. Use this item to open and unpack it.
-resourcegunHandgunT1PistolPartsBundleKyDesc,This is a compact stack of Handgun Parts. Use this item to open and unpack it.
-resourcegunMGT1AK47PartsBundleKyDesc,This is a compact stack of Machine Gun Parts. Use this item to open and unpack it.
-resourcegunRifleT1HuntingRiflePartsBundleKyDesc,This is a compact stack of Rifle Parts. Use this item to open and unpack it.
-resourcegunShotgunT1DoubleBarrelPartsBundleKyDesc,This is a compact stack of Shotgun Parts. Use this item to open and unpack it.
+resourceBotRoboticsPartsBundleKyDesc,This is a compact stack of Robotics Parts. Use this item to open and unpack it.
+resourceBowT1WoodenBowPartsBundleKyDesc,This is a compact stack of Bow / Crossbow Parts. Use this item to open and unpack it.
+resourceExplosivesT3RocketLauncherPartsBundleKyDesc,This is a compact stack of Rocket Launcher Parts. Use this item to open and unpack it.
+resourceHandgunT1PistolPartsBundleKyDesc,This is a compact stack of Handgun Parts. Use this item to open and unpack it.
+resourceMGT1AK47PartsBundleKyDesc,This is a compact stack of Machine Gun Parts. Use this item to open and unpack it.
+resourceRifleT1HuntingRiflePartsBundleKyDesc,This is a compact stack of Rifle Parts. Use this item to open and unpack it.
+resourceShotgunT1DoubleBarrelPartsBundleKyDesc,This is a compact stack of Shotgun Parts. Use this item to open and unpack it.
 resourceAloeCreamBundleKyDesc,This is a compact stack of Aloe Cream. Use this item to open and unpack it.
 resourceBandageBundleKyDesc,This is a compact stack of Bandages. Use this item to open and unpack it.
 resourceBloodBagBundleKyDesc,This is a compact stack of Blood Bags. Use this item to open and unpack it.
@@ -426,18 +428,18 @@ resourceSnowBallBundleKyDesc,This is a compact stack of Snow Balls. Use this ite
 resourceSpringBundleKyDesc,This is a compact stack of Spings. Use this item to open and unpack it.
 resourceTestosteroneExtractBundleKyDesc,This is a compact stack of Testosterone Extract. Use this item to open and unpack it.
 resourceYuccaFibersBundleKyDesc,This is a compact stack of Plant Fibers. Use this item to open and unpack it.
-resourceMolotovCocktailBundleKyDesc,This is a compact stack of Molotov Cocktail. Use this item to open and unpack it.
-resourcePipeBombBundleKyDesc,This is a compact stack of Pipe Bombs. Use this item to open and unpack it.
 resourceDynamiteBundleKyDesc,This is a compact stack of Dynamite. Use this item to open and unpack it.
 resourceGrenadeBundleKyDesc,This is a compact stack of Grenades. Use this item to open and unpack it.
 resourceGrenadeContactBundleKyDesc,This is a compact stack of Contact Grenades. Use this item to open and unpack it.
+resourceAmmoMolotovCocktailBundleKyDesc,This is a compact stack of Molotov Cocktail. Use this item to open and unpack it.
+resourceAmmoPipeBombBundleKyDesc,This is a compact stack of Pipe Bombs. Use this item to open and unpack it.
 resourceTimedChargeBundleKyDesc,This is a compact stack of Timed Charges. Use this item to open and unpack it.
 resourceBeakerBundleKyDesc,This is a compact stack of Beakers. Use this item to open and unpack it.
 resourceCookingGrillBundleKyDesc,This is a compact stack of Cooking Grills. Use this item to open and unpack it.
 resourceCookingPotBundleKyDesc,This is a compact stack of Cooking Pots. Use this item to open and unpack it.
-resourceMountainPine1mBundleKyDesc,This is a compact stack of Pine Seeds. Use this item to open and unpack it.
-resourceOak1mBundleKyDesc,This is a compact stack of Oak Seeds. Use this item to open and unpack it.
-resourceWinterPine1mBundleKyDesc,This is a compact stack of Blue Spruce Seeds. Use this item to open and unpack it.
+resourcePlantedMountainPine1mBundleKyDesc,This is a compact stack of Pine Seeds. Use this item to open and unpack it.
+resourcePlantedOak1mBundleKyDesc,This is a compact stack of Oak Seeds. Use this item to open and unpack it.
+resourcePlantedWinterPine1mBundleKyDesc,This is a compact stack of Blue Spruce Seeds. Use this item to open and unpack it.
 resourceBicycleChassisBundleKyDesc,This is a compact stack of Bicycle Chassis. Use this item to open and unpack it.
 resourceBicycleHandlebarsBundleKyDesc,This is a compact stack of Bicycle Handlebars. Use this item to open and unpack it.
 resourceGyroCopterAccessoriesBundleKyDesc,This is a compact stack of Gyrocopter Accessories. Use this item to open and unpack it.
@@ -449,3 +451,5 @@ resourceMotorcycleHandlebarsBundleKyDesc,This is a compact stack of Motorcycle H
 resourceTruck4x4AccessoriesBundleKyDesc,This is a compact stack of 4x4 Truck Accessories. Use this item to open and unpack it.
 resourceTruck4x4ChassisBundleKyDesc,This is a compact stack of 4x4 Truck Chassis. Use this item to open and unpack it.
 resourceWheelsBundleKyDesc,This is a compact stack of Wheels. Use this item to open and unpack it.
+resourceScrapPolymersBundleKyDesc,This is a compact stack of Scrap Polymers. Use this item to open and unpack it.
+resourceRadiatorBundleKyDesc,This is a compact stack of Radiators. Use this item to open and unpack it.
