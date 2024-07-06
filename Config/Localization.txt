@@ -1,0 +1,417 @@
+Key,english
+resourceammo44MagnumBulletAPBundle,Bundle of AP 44 Magnum Bullets(300)
+resourceammo44MagnumBulletBallBundle,Bundle of 44 Magnum Bullets(300)
+resourceammo44MagnumBulletHPBundle,Bundle of HP 44 Magnum Bullets(300)
+resourceammo762mmBulletAPBundle,Bundle of AP 7.62mm Bullets(150)
+resourceammo762mmBulletBallBundle,Bundle of 7.62mm Bullets(150)
+resourceammo762mmBulletHPBundle,Bundle of HP 7.62mm Bullets(150)
+resourceammo9mmBulletAPBundle,Bundle of AP 9mm Bullets(300)
+resourceammo9mmBulletBallBundle,Bundle of 9mm Bullets(300)
+resourceammo9mmBulletHPBundle,Bundle of HP 9mm Bullets(300)
+resourceammoArrowExplodingBundle,Bundle of Exploding Arrows(75)
+resourceammoArrowFlamingBundle,Bundle of Flaming Arrows(150)
+resourceammoArrowIronBundle,Bundle of Iron Arrows(150)
+resourceammoArrowSteelAPBundle,Bundle of Steel Arrows(150)
+resourceammoArrowStoneBundle,Bundle of Stone Arrows(150)
+resourceammoCrossbowBoltExplodingBundle,Bundle of Exploding Crossbow Bolts(75)
+resourceammoCrossbowBoltFlamingBundle,Bundle of Flaming Crossbow Bolts(150)
+resourceammoCrossbowBoltIronBundle,Bundle of Iron Crossbow Bolts(150)
+resourceammoCrossbowBoltSteelAPBundle,Bundle of Steel Crossbow Bolts(150)
+resourceammoCrossbowBoltStoneBundle,Bundle of Stone Crossbow Bolts(150)
+resourceammoGasCanBundle,Bundle of Gas Cans(10000)
+resourceammoJunkTurretAPBundle,Bundle of AP Robotic Turret Ammo(1000)
+resourceammoJunkTurretRegularBundle,Bundle of Robotic Turret Ammo(1000)
+resourceammoJunkTurretShellBundle,Bundle of Robotic Turret Shells(1000)
+resourceammoRocketFragBundle,Bundle of Frag Rockets(20)
+resourceammoRocketHEBundle,Bundle of HE Rockets(20)
+resourceammoShotgunBreachingSlugBundle,Bundle of Shotgun Breaching Slugs(150)
+resourceammoShotgunShellBundle,Bundle of Shotgun Shells(150)
+resourceammoShotgunSlugBundle,Bundle of Shotgun Slugs(150)
+resourcearmorPartsBundle,Bundle of Armor Parts(50)
+resourcedrinkCanMegaCrushBundle,Bundle of Mega Crush(10)
+resourcedrinkJarBeerBundle,Bundle of Beers(10)
+resourcedrinkJarBlackStrapCoffeeBundle,Bundle of Black Strap Coffee(10)
+resourcedrinkJarCoffeeBundle,Bundle of Coffee(10)
+resourcedrinkJarGoldenRodTeaBundle,Bundle of Goldenrod Tea(10)
+resourcedrinkJarGrandpasAwesomeSauceBundle,Bundle of Grandpa's Awesome Sauce(10)
+resourcedrinkJarGrandpasForgettingElixerBundle,Bundle of Grandpa's Fergit'n Elixer(10)
+resourcedrinkJarGrandpasLearningElixerBundle,Bundle of Grandpa's Learnin' Elixer(10)
+resourcedrinkJarGrandpasMoonshineBundle,Bundle of Grandpa's Moonshine(10)
+resourcedrinkJarPureMineralWaterBundle,Bundle of Pure Mineral Water(10)
+resourcedrinkJarRedTeaBundle,Bundle of Read Tea(10)
+resourcedrinkJarRiverWaterBundle,Bundle of Murky Water(125)
+resourcedrinkJarYuccaJuiceBundle,Bundle of Yucca Juice(10)
+resourcedrinkYuccaJuiceSmoothieBundle,Bundle of Yucca Juice Smoothie(10)
+resourcedrugAtomJunkiesBundle,Bundle of Atom Junkies(10)
+resourcedrugCovertCatsBundle,Bundle of Covert Cats(10)
+resourcedrugEyeKandyBundle,Bundle of Eye Candy(10)
+resourcedrugHackersBundle,Bundle of Hackers(10)
+resourcedrugHealthBarBundle,Bundle of Health Bars(10)
+resourcedrugHerbalAntibioticsBundle,Bundle of Hearbal Antibiotics(10)
+resourcedrugJailBreakersBundle,Bundle of Jail Breakers(10)
+resourcedrugNerdTatsBundle,Bundle of Nerd Tats(10)
+resourcedrugOhShitzDropsBundle,Bundle of Oh Shitz Drops(10)
+resourcedrugRecogBundle,Bundle of Recog(10)
+resourcedrugRockBustersBundle,Bundle of Rock Busters(10)
+resourcedrugSkullCrushersBundle,Bundle of Skill Crushers(10)
+resourcedrugSteroidsBundle,Bundle of Steroids(10)
+resourcedrugSugarButtsBundle,Bundle of Sugar Butts(10)
+resourcefoodBaconAndEggsBundle,Bundle of Bacon and Eggs(10)
+resourcefoodBakedPotatoBundle,Bundle of Baked Potatos(10)
+resourcefoodBlueberryPieBundle,Bundle of Blueberry Pies(10)
+resourcefoodBoiledMeatBundle,Bundle of Boiled Meat(10)
+resourcefoodCanBeefBundle,Bundle of Large Beef Rations(10)
+resourcefoodCanCatfoodBundle,Bundle of Cans of Cat Food(10)
+resourcefoodCanChickenBundle,Bundle of Chicken Rations(10)
+resourcefoodCanChiliBundle,Bundle of Cans of Chili(10)
+resourcefoodCanDogfoodBundle,Bundle of Cans of Dog Food(10)
+resourcefoodCanLambBundle,Bundle of Lamb Rations(10)
+resourcefoodCanMisoBundle,Bundle of Cans of Miso(10)
+resourcefoodCanPastaBundle,Bundle of Cans of Pasta(10)
+resourcefoodCanPearsBundle,Bundle of Cans of Pears(10)
+resourcefoodCanPeasBundle,Bundle of Cans of Peas(10)
+resourcefoodCanSalmonBundle,Bundle of Cans of Salmon(10)
+resourcefoodCanShamBundle,Bundle of Cans of Sham(10)
+resourcefoodCanSoupBundle,Bundle of Chicken Soup(10)
+resourcefoodCanStockBundle,Bundle of Cans of Stock(10)
+resourcefoodCanTunaBundle,Bundle of Cans of Tuna(10)
+resourcefoodCharredMeatBundle,Bundle of Charred Meat(10)
+resourcefoodChiliDogBundle,Bundle of Chili Dogs(10)
+resourcefoodCornBreadBundle,Bundle of Corn Bread(10)
+resourcefoodCornMealBundle,Bundle of Cornmeal(125)
+resourcefoodCornOnTheCobBundle,Bundle of Grilled Corn(10)
+resourcefoodCropBlueberriesBundle,Bundle of Blueberries(125)
+resourcefoodCropCornBundle,Bundle of Corn(125)
+resourcefoodCropGraceCornBundle,Bundle of Super Corn(125)
+resourcefoodCropMushroomsBundle,Bundle of Mushrooms(125)
+resourcefoodCropPotatoBundle,Bundle of Potatos(125)
+resourcefoodCropPumpkinBundle,Bundle of Pumpkins(125)
+resourcefoodCropYuccaFruitBundle,Bundle of Yucca Fruit(125)
+resourcefoodEggBundle,Bundle of Eggs(125)
+resourcefoodEggBoiledBundle,Bundle of Boiled Egg(10)
+resourcefoodFishTacosBundle,Bundle of Fish Tacos(10)
+resourcefoodGrilledMeatBundle,Bundle of Grilled Meat(10)
+resourcefoodGumboStewBundle,Bundle of Gumbo Stew(10)
+resourcefoodHoboStewBundle,Bundle of Hobo Stew(10)
+resourcefoodMeatStewBundle,Bundle of Meat Stew(10)
+resourcefoodPumpkinBreadBundle,Bundle of Pumpkin Bread(10)
+resourcefoodPumpkinCheesecakeBundle,Bundle of Pumpkin Cheesecakes(10)
+resourcefoodPumpkinPieBundle,Bundle of Pumpkin Pies(10)
+resourcefoodShamChowderBundle,Bundle of Sham Chowder(10)
+resourcefoodShamSandwichBundle,Bundle of Old Sham Sandwiches(10)
+resourcefoodShepardsPieBundle,Bundle of Shepards Pie(10)
+resourcefoodSpaghettiBundle,Bundle of Spaghetti(10)
+resourcefoodSteakAndPotatoBundle,Bundle of Steak and Potatos(10)
+resourcefoodTunaFishGraveyToastBundle,Bundle of Tuna Fish Gravey Toast(10)
+resourcefoodVegetableStewBundle,Bundle of Vegetable Stew(10)
+resourcegunBotRoboticsPartsBundle,Bundle of Robotics Parts(50)
+resourcegunBowT1WoodenBowPartsBundle,Bundle of Bow / Crossbow Parts(50)
+resourcegunExplosivesT3RocketLauncherPartsBundle,Bundle of Rocket Launcher Parts(50)
+resourcegunHandgunT1PistolPartsBundle,Bundle of Handgun Parts(50)
+resourcegunMGT1AK47PartsBundle,Bundle of Machine Gun Parts(50)
+resourcegunRifleT1HuntingRiflePartsBundle,Bundle of Rifle Parts(50)
+resourcegunShotgunT1DoubleBarrelPartsBundle,Bundle of Shotgun Parts(50)
+resourcemedicalAloeCreamBundle,Bundle of Aloe Cream(15)
+resourcemedicalBandageBundle,Bundle of Bandages(10)
+resourcemedicalBloodBagBundle,Bundle of Blood Bags(15)
+resourcemedicalFirstAidBandageBundle,Bundle of First Aid Bandages(5)
+resourcemedicalFirstAidKitBundle,Bundle of First Aid Kits(5)
+resourcemedicalPlasterCastBundle,Bundle of Plaster Casts(5)
+resourcemedicalSplintBundle,Bundle of Splints(5)
+resourcemeleeToolAllSteelPartsBundle,Bundle of Steel Tool Parts(50)
+resourcemeleeToolAxeT3ChainsawPartsBundle,Bundle of Motor Tool Parts(50)
+resourcemeleeWpnBatonT2StunBatonPartsBundle,Bundle of Baton Parts(50)
+resourcemeleeWpnBladeT3MachetePartsBundle,Bundle of Machete Parts(50)
+resourcemeleeWpnClubT3SteelClubPartsBundle,Bundle of Steel Club Parts(50)
+resourcemeleeWpnKnucklesT3SteelKnucklesPartsBundle,Bundle of Steel Knuckles Parts(50)
+resourcemeleeWpnSledgeT3SteelSledgehammerPartsBundle,Bundle of Steel Sledgehammer Parts(50)
+resourcemeleeWpnSpearT3SteelSpearPartsBundle,Bundle of Steel Spear Parts(50)
+resourceoldCashBundle,Bundle of Old Cash(10000)
+resourceresourceAcidBundle,Bundle of Bottles of Acid(100)
+resourceresourceAnimalFatBundle,Bundle of Animal Fat(500)
+resourceresourceArmorCraftingKitBundle,Bundle of Armor Crafting Kits(25)
+resourceresourceArrowHeadIronBundle,Bundle of Iron Arrowheads(500)
+resourceresourceArrowHeadSteelAPBundle,Bundle of Steel Arrowheads(500)
+resourceresourceBrokenGlassBundle,Bundle of Broken Glass(6000)
+resourceresourceBuckshotBundle,Bundle of Buckshot(1000)
+resourceresourceCropAloeLeafBundle,Bundle of Aloe Vera Leafs(500)
+resourceresourceCropChrysanthemumPlantBundle,Bundle of Chrysanthemum(500)
+resourceresourceCropCoffeeBeansBundle,Bundle of Coffee Beans(500)
+resourceresourceCropCottonPlantBundle,Bundle of Cotton(500)
+resourceresourceCropGoldenrodPlantBundle,Bundle of Goldenrod Flowers(500)
+resourceresourceCropHopsFlowerBundle,Bundle of Hops Flowers(500)
+resourceresourceCrushedSandBundle,Bundle of Crushed Sand(6000)
+resourceresourceDuctTapeBundle,Bundle of Duct Tape(500)
+resourceresourceGlueBundle,Bundle of Glue(500)
+resourceresourceGoldNuggetBundle,Bundle of Gold Nuggets(250)
+resourceresourceHeadlightBundle,Bundle of Headlights(50)
+resourceresourceLegendaryPartsBundle,Bundle of Legendary Parts(25)
+resourceresourceMetalPileBundle,Bundle of Short Iron Pipes(500)
+resourceresourceNailBundle,Bundle of Nails(1000)
+resourceresourcePaintBundle,Bundle of Paint(1000)
+resourceresourceRawDiamondBundle,Bundle of Raw Diamonds(250)
+resourceresourceRepairKitBundle,Bundle of Repair Kits(25)
+resourceresourceRocketCasingBundle,Bundle of Rocket Casings(50)
+resourceresourceRocketTipBundle,Bundle of Rocket Tips(500)
+resourceresourceScopeLensBundle,Bundle of Scope Lens(10)
+resourceresourceSewingKitBundle,Bundle of Sewing kits(50)
+resourceresourceSilverNuggetBundle,Bundle of Silver Nuggets(250)
+resourceresourceSnowBallBundle,Bundle of Snow Balls(6000)
+resourceresourceSpringBundle,Bundle of Spings(500)
+resourceresourceTestosteroneExtractBundle,Bundle of Testosterone Extract(10)
+resourceresourceYuccaFibersBundle,Bundle of Plant Fibers(6000)
+resourcethrownAmmoMolotovCocktailBundle,Bundle of Molotov Cocktail(20)
+resourcethrownAmmoPipeBombBundle,Bundle of Pipe Bombs(25)
+resourcethrownDynamiteBundle,Bundle of Dynamite(10)
+resourcethrownGrenadeBundle,Bundle of Grenades(25)
+resourcethrownGrenadeContactBundle,Bundle of Contact Grenades(25)
+resourcethrownTimedChargeBundle,Bundle of Timed Charges(10)
+resourcetoolCookingGrillBundle,Bundle of Cooking Grills(3)
+resourcetoolCookingPotBundle,Bundle of Cooking Pots(3)
+resourcevehicleBicycleChassisBundle,Bundle of Bicycle Chassis(50)
+resourcevehicleBicycleHandlebarsBundle,Bundle of Bicycle Handlebars(50)
+resourcevehicleGyroCopterAccessoriesBundle,Bundle of Gyrocopter Accessories(50)
+resourcevehicleGyroCopterChassisBundle,Bundle of Gyrocopter Chassis(50)
+resourcevehicleMinibikeChassisBundle,Bundle of Minibike Chassis(50)
+resourcevehicleMinibikeHandlebarsBundle,Bundle of Minibike Handlebars(50)
+resourcevehicleMotorcycleChassisBundle,Bundle of Motorcycle Chassis(50)
+resourcevehicleMotorcycleHandlebarsBundle,Bundle of Motorcycle Handlebars(50)
+resourcevehicleTruck4x4AccessoriesBundle,Bundle of 4x4 Truck Accessories(50)
+resourcevehicleTruck4x4ChassisBundle,Bundle of 4x4 Truck Chassis(50)
+resourcevehicleWheelsBundle,Bundle of Wheels(50)
+resourceresourceBrassBundle,Bundle of Brass(6000)
+resourceresourceLeatherBundle,Bundle of Leather(250)
+resourceresourceBoneBundle,Bundle of Bones(1200)
+resourceresourceRottingFleshBundle,Bundle of Rotting Flesh(125)
+resourceresourceGunPowderBundle,Bundle of Gunpowder(1000)
+resourceresourceCobblestonesBundle,Bundle of Cobblestones(1000)
+resourceresourceConcreteMixBundle,Bundle of Concrete Mix(1000)
+resourceresourceCementBundle,Bundle of Cement(1000)
+resourceresourcePaperBundle,Bundle of Paper(500)
+resourceresourceElectricPartsBundle,Bundle of Electrical Parts(1000)
+resourceresourceMechanicalPartsBundle,Bundle of Mechanical Parts(1000)
+resourceresourceOilBundle,Bundle of Oil(50)
+resourceresourceFeatherBundle,Bundle of Feathers(250)
+resourceresourceForgedIronBundle,Bundle of Forged Iron(500)
+resourceresourceForgedSteelBundle,Bundle of Forged Steel(500)
+resourceammoDartIronBundle,Bundle of Iron Darts(500)
+resourcedrinkJarBoiledWaterBundle,Bundle of Boiled Water(10)
+resourcefoodRawMeatBundle,Bundle of Raw Meat(125)
+resourcefoodHoneyBundle,Bundle of Honey(10)
+resourcedrugAntibioticsBundle,Bundle of Antibiotics(10)
+resourcedrugFortBitesBundle,Bundle of Fort Bites(10)
+resourcedrugVitaminsBundle,Bundle of Vitamins(10)
+resourcedrugPainkillersBundle,Bundle of Painkillers(10)
+resourceresourceBulletTipBundle,Bundle of Bullet Tips(1000)
+resourceresourceBulletCasingBundle,Bundle of Bullet Casings(1000)
+resourcetoolBeakerBundle,Bundle of Beakers(10)
+resourceresourceLockPickBundle,Bundle of Lockpicks(50)
+resourceresourceClothBundle,Bundle of Cloth Fragments(250)
+resourceammo44MagnumBulletAPBundleDesc,This is a compact stack of AP 44 Magnum Bullets. Use this item to open and unpack it.
+resourceammo44MagnumBulletBallBundleDesc,This is a compact stack of 44 Magnum Bullets. Use this item to open and unpack it.
+resourceammo44MagnumBulletHPBundleDesc,This is a compact stack of HP 44 Magnum Bullets. Use this item to open and unpack it.
+resourceammo762mmBulletAPBundleDesc,This is a compact stack of AP 7.62mm Bullets. Use this item to open and unpack it.
+resourceammo762mmBulletBallBundleDesc,This is a compact stack of 7.62mm Bullets. Use this item to open and unpack it.
+resourceammo762mmBulletHPBundleDesc,This is a compact stack of HP 7.62mm Bullets. Use this item to open and unpack it.
+resourceammo9mmBulletAPBundleDesc,This is a compact stack of AP 9mm Bullets. Use this item to open and unpack it.
+resourceammo9mmBulletBallBundleDesc,This is a compact stack of 9mm Bullets. Use this item to open and unpack it.
+resourceammo9mmBulletHPBundleDesc,This is a compact stack of HP 9mm Bullets. Use this item to open and unpack it.
+resourceammoArrowExplodingBundleDesc,This is a compact stack of Exploding Arrows. Use this item to open and unpack it.
+resourceammoArrowFlamingBundleDesc,This is a compact stack of Flaming Arrows. Use this item to open and unpack it.
+resourceammoArrowIronBundleDesc,This is a compact stack of Iron Arrows. Use this item to open and unpack it.
+resourceammoArrowSteelAPBundleDesc,This is a compact stack of Steel Arrows. Use this item to open and unpack it.
+resourceammoArrowStoneBundleDesc,This is a compact stack of Stone Arrows. Use this item to open and unpack it.
+resourceammoCrossbowBoltExplodingBundleDesc,This is a compact stack of Exploding Crossbow Bolts. Use this item to open and unpack it.
+resourceammoCrossbowBoltFlamingBundleDesc,This is a compact stack of Flaming Crossbow Bolts. Use this item to open and unpack it.
+resourceammoCrossbowBoltIronBundleDesc,This is a compact stack of Iron Crossbow Bolts. Use this item to open and unpack it.
+resourceammoCrossbowBoltSteelAPBundleDesc,This is a compact stack of Steel Crossbow Bolts. Use this item to open and unpack it.
+resourceammoCrossbowBoltStoneBundleDesc,This is a compact stack of Stone Crossbow Bolts. Use this item to open and unpack it.
+resourceammoGasCanBundleDesc,This is a compact stack of Gas Cans. Use this item to open and unpack it.
+resourceammoJunkTurretAPBundleDesc,This is a compact stack of AP Robotic Turret Ammo. Use this item to open and unpack it.
+resourceammoJunkTurretRegularBundleDesc,This is a compact stack of Robotic Turret Ammo. Use this item to open and unpack it.
+resourceammoJunkTurretShellBundleDesc,This is a compact stack of Robotic Turret Shells. Use this item to open and unpack it.
+resourceammoRocketFragBundleDesc,This is a compact stack of Frag Rockets. Use this item to open and unpack it.
+resourceammoRocketHEBundleDesc,This is a compact stack of HE Rockets. Use this item to open and unpack it.
+resourceammoShotgunBreachingSlugBundleDesc,This is a compact stack of Shotgun Breaching Slugs. Use this item to open and unpack it.
+resourceammoShotgunShellBundleDesc,This is a compact stack of Shotgun Shells. Use this item to open and unpack it.
+resourceammoShotgunSlugBundleDesc,This is a compact stack of Shotgun Slugs. Use this item to open and unpack it.
+resourcearmorPartsBundleDesc,This is a compact stack of Armor Parts. Use this item to open and unpack it.
+resourcedrinkCanMegaCrushBundleDesc,This is a compact stack of Mega Crush. Use this item to open and unpack it.
+resourcedrinkJarBeerBundleDesc,This is a compact stack of Beers. Use this item to open and unpack it.
+resourcedrinkJarBlackStrapCoffeeBundleDesc,This is a compact stack of Black Strap Coffee. Use this item to open and unpack it.
+resourcedrinkJarCoffeeBundleDesc,This is a compact stack of Coffee. Use this item to open and unpack it.
+resourcedrinkJarGoldenRodTeaBundleDesc,This is a compact stack of Goldenrod Tea. Use this item to open and unpack it.
+resourcedrinkJarGrandpasAwesomeSauceBundleDesc,This is a compact stack of Grandpa's Awesome Sauce. Use this item to open and unpack it.
+resourcedrinkJarGrandpasForgettingElixerBundleDesc,This is a compact stack of Grandpa's Fergit'n Elixer. Use this item to open and unpack it.
+resourcedrinkJarGrandpasLearningElixerBundleDesc,This is a compact stack of Grandpa's Learnin' Elixer. Use this item to open and unpack it.
+resourcedrinkJarGrandpasMoonshineBundleDesc,This is a compact stack of Grandpa's Moonshine. Use this item to open and unpack it.
+resourcedrinkJarPureMineralWaterBundleDesc,This is a compact stack of Pure Mineral Water. Use this item to open and unpack it.
+resourcedrinkJarRedTeaBundleDesc,This is a compact stack of Read Tea. Use this item to open and unpack it.
+resourcedrinkJarRiverWaterBundleDesc,This is a compact stack of Murky Water. Use this item to open and unpack it.
+resourcedrinkJarYuccaJuiceBundleDesc,This is a compact stack of Yucca Juice. Use this item to open and unpack it.
+resourcedrinkYuccaJuiceSmoothieBundleDesc,This is a compact stack of Yucca Juice Smoothie. Use this item to open and unpack it.
+resourcedrugAtomJunkiesBundleDesc,This is a compact stack of Atom Junkies. Use this item to open and unpack it.
+resourcedrugCovertCatsBundleDesc,This is a compact stack of Covert Cats. Use this item to open and unpack it.
+resourcedrugEyeKandyBundleDesc,This is a compact stack of Eye Candy. Use this item to open and unpack it.
+resourcedrugHackersBundleDesc,This is a compact stack of Hackers. Use this item to open and unpack it.
+resourcedrugHealthBarBundleDesc,This is a compact stack of Health Bars. Use this item to open and unpack it.
+resourcedrugHerbalAntibioticsBundleDesc,This is a compact stack of Hearbal Antibiotics. Use this item to open and unpack it.
+resourcedrugJailBreakersBundleDesc,This is a compact stack of Jail Breakers. Use this item to open and unpack it.
+resourcedrugNerdTatsBundleDesc,This is a compact stack of Nerd Tats. Use this item to open and unpack it.
+resourcedrugOhShitzDropsBundleDesc,This is a compact stack of Oh Shitz Drops. Use this item to open and unpack it.
+resourcedrugRecogBundleDesc,This is a compact stack of Recog. Use this item to open and unpack it.
+resourcedrugRockBustersBundleDesc,This is a compact stack of Rock Busters. Use this item to open and unpack it.
+resourcedrugSkullCrushersBundleDesc,This is a compact stack of Skill Crushers. Use this item to open and unpack it.
+resourcedrugSteroidsBundleDesc,This is a compact stack of Steroids. Use this item to open and unpack it.
+resourcedrugSugarButtsBundleDesc,This is a compact stack of Sugar Butts. Use this item to open and unpack it.
+resourcefoodBaconAndEggsBundleDesc,This is a compact stack of Bacon and Eggs. Use this item to open and unpack it.
+resourcefoodBakedPotatoBundleDesc,This is a compact stack of Baked Potatos. Use this item to open and unpack it.
+resourcefoodBlueberryPieBundleDesc,This is a compact stack of Blueberry Pies. Use this item to open and unpack it.
+resourcefoodBoiledMeatBundleDesc,This is a compact stack of Boiled Meat. Use this item to open and unpack it.
+resourcefoodCanBeefBundleDesc,This is a compact stack of Large Beef Rations. Use this item to open and unpack it.
+resourcefoodCanCatfoodBundleDesc,This is a compact stack of Cans of Cat Food. Use this item to open and unpack it.
+resourcefoodCanChickenBundleDesc,This is a compact stack of Chicken Rations. Use this item to open and unpack it.
+resourcefoodCanChiliBundleDesc,This is a compact stack of Cans of Chili. Use this item to open and unpack it.
+resourcefoodCanDogfoodBundleDesc,This is a compact stack of Cans of Dog Food. Use this item to open and unpack it.
+resourcefoodCanLambBundleDesc,This is a compact stack of Lamb Rations. Use this item to open and unpack it.
+resourcefoodCanMisoBundleDesc,This is a compact stack of Cans of Miso. Use this item to open and unpack it.
+resourcefoodCanPastaBundleDesc,This is a compact stack of Cans of Pasta. Use this item to open and unpack it.
+resourcefoodCanPearsBundleDesc,This is a compact stack of Cans of Pears. Use this item to open and unpack it.
+resourcefoodCanPeasBundleDesc,This is a compact stack of Cans of Peas. Use this item to open and unpack it.
+resourcefoodCanSalmonBundleDesc,This is a compact stack of Cans of Salmon. Use this item to open and unpack it.
+resourcefoodCanShamBundleDesc,This is a compact stack of Cans of Sham. Use this item to open and unpack it.
+resourcefoodCanSoupBundleDesc,This is a compact stack of Chicken Soup. Use this item to open and unpack it.
+resourcefoodCanStockBundleDesc,This is a compact stack of Cans of Stock. Use this item to open and unpack it.
+resourcefoodCanTunaBundleDesc,This is a compact stack of Cans of Tuna. Use this item to open and unpack it.
+resourcefoodCharredMeatBundleDesc,This is a compact stack of Charred Meat. Use this item to open and unpack it.
+resourcefoodChiliDogBundleDesc,This is a compact stack of Chili Dogs. Use this item to open and unpack it.
+resourcefoodCornBreadBundleDesc,This is a compact stack of Corn Bread. Use this item to open and unpack it.
+resourcefoodCornMealBundleDesc,This is a compact stack of Cornmeal. Use this item to open and unpack it.
+resourcefoodCornOnTheCobBundleDesc,This is a compact stack of Grilled Corn. Use this item to open and unpack it.
+resourcefoodCropBlueberriesBundleDesc,This is a compact stack of Blueberries. Use this item to open and unpack it.
+resourcefoodCropCornBundleDesc,This is a compact stack of Corn. Use this item to open and unpack it.
+resourcefoodCropGraceCornBundleDesc,This is a compact stack of Super Corn. Use this item to open and unpack it.
+resourcefoodCropMushroomsBundleDesc,This is a compact stack of Mushrooms. Use this item to open and unpack it.
+resourcefoodCropPotatoBundleDesc,This is a compact stack of Potatos. Use this item to open and unpack it.
+resourcefoodCropPumpkinBundleDesc,This is a compact stack of Pumpkins. Use this item to open and unpack it.
+resourcefoodCropYuccaFruitBundleDesc,This is a compact stack of Yucca Fruit. Use this item to open and unpack it.
+resourcefoodEggBundleDesc,This is a compact stack of Eggs. Use this item to open and unpack it.
+resourcefoodEggBoiledBundleDesc,This is a compact stack of Boiled Egg. Use this item to open and unpack it.
+resourcefoodFishTacosBundleDesc,This is a compact stack of Fish Tacos. Use this item to open and unpack it.
+resourcefoodGrilledMeatBundleDesc,This is a compact stack of Grilled Meat. Use this item to open and unpack it.
+resourcefoodGumboStewBundleDesc,This is a compact stack of Gumbo Stew. Use this item to open and unpack it.
+resourcefoodHoboStewBundleDesc,This is a compact stack of Hobo Stew. Use this item to open and unpack it.
+resourcefoodMeatStewBundleDesc,This is a compact stack of Meat Stew. Use this item to open and unpack it.
+resourcefoodPumpkinBreadBundleDesc,This is a compact stack of Pumpkin Bread. Use this item to open and unpack it.
+resourcefoodPumpkinCheesecakeBundleDesc,This is a compact stack of Pumpkin Cheesecakes. Use this item to open and unpack it.
+resourcefoodPumpkinPieBundleDesc,This is a compact stack of Pumpkin Pies. Use this item to open and unpack it.
+resourcefoodShamChowderBundleDesc,This is a compact stack of Sham Chowder. Use this item to open and unpack it.
+resourcefoodShamSandwichBundleDesc,This is a compact stack of Old Sham Sandwiches. Use this item to open and unpack it.
+resourcefoodShepardsPieBundleDesc,This is a compact stack of Shepards Pie. Use this item to open and unpack it.
+resourcefoodSpaghettiBundleDesc,This is a compact stack of Spaghetti. Use this item to open and unpack it.
+resourcefoodSteakAndPotatoBundleDesc,This is a compact stack of Steak and Potatos. Use this item to open and unpack it.
+resourcefoodTunaFishGraveyToastBundleDesc,This is a compact stack of Tuna Fish Gravey Toast. Use this item to open and unpack it.
+resourcefoodVegetableStewBundleDesc,This is a compact stack of Vegetable Stew. Use this item to open and unpack it.
+resourcegunBotRoboticsPartsBundleDesc,This is a compact stack of Robotics Parts. Use this item to open and unpack it.
+resourcegunBowT1WoodenBowPartsBundleDesc,This is a compact stack of Bow / Crossbow Parts. Use this item to open and unpack it.
+resourcegunExplosivesT3RocketLauncherPartsBundleDesc,This is a compact stack of Rocket Launcher Parts. Use this item to open and unpack it.
+resourcegunHandgunT1PistolPartsBundleDesc,This is a compact stack of Handgun Parts. Use this item to open and unpack it.
+resourcegunMGT1AK47PartsBundleDesc,This is a compact stack of Machine Gun Parts. Use this item to open and unpack it.
+resourcegunRifleT1HuntingRiflePartsBundleDesc,This is a compact stack of Rifle Parts. Use this item to open and unpack it.
+resourcegunShotgunT1DoubleBarrelPartsBundleDesc,This is a compact stack of Shotgun Parts. Use this item to open and unpack it.
+resourcemedicalAloeCreamBundleDesc,This is a compact stack of Aloe Cream. Use this item to open and unpack it.
+resourcemedicalBandageBundleDesc,This is a compact stack of Bandages. Use this item to open and unpack it.
+resourcemedicalBloodBagBundleDesc,This is a compact stack of Blood Bags. Use this item to open and unpack it.
+resourcemedicalFirstAidBandageBundleDesc,This is a compact stack of First Aid Bandages. Use this item to open and unpack it.
+resourcemedicalFirstAidKitBundleDesc,This is a compact stack of First Aid Kits. Use this item to open and unpack it.
+resourcemedicalPlasterCastBundleDesc,This is a compact stack of Plaster Casts. Use this item to open and unpack it.
+resourcemedicalSplintBundleDesc,This is a compact stack of Splints. Use this item to open and unpack it.
+resourcemeleeToolAllSteelPartsBundleDesc,This is a compact stack of Steel Tool Parts. Use this item to open and unpack it.
+resourcemeleeToolAxeT3ChainsawPartsBundleDesc,This is a compact stack of Motor Tool Parts. Use this item to open and unpack it.
+resourcemeleeWpnBatonT2StunBatonPartsBundleDesc,This is a compact stack of Baton Parts. Use this item to open and unpack it.
+resourcemeleeWpnBladeT3MachetePartsBundleDesc,This is a compact stack of Machete Parts. Use this item to open and unpack it.
+resourcemeleeWpnClubT3SteelClubPartsBundleDesc,This is a compact stack of Steel Club Parts. Use this item to open and unpack it.
+resourcemeleeWpnKnucklesT3SteelKnucklesPartsBundleDesc,This is a compact stack of Steel Knuckles Parts. Use this item to open and unpack it.
+resourcemeleeWpnSledgeT3SteelSledgehammerPartsBundleDesc,This is a compact stack of Steel Sledgehammer Parts. Use this item to open and unpack it.
+resourcemeleeWpnSpearT3SteelSpearPartsBundleDesc,This is a compact stack of Steel Spear Parts. Use this item to open and unpack it.
+resourceoldCashBundleDesc,This is a compact stack of Old Cash. Use this item to open and unpack it.
+resourceresourceAcidBundleDesc,This is a compact stack of Bottles of Acid. Use this item to open and unpack it.
+resourceresourceAnimalFatBundleDesc,This is a compact stack of Animal Fat. Use this item to open and unpack it.
+resourceresourceArmorCraftingKitBundleDesc,This is a compact stack of Armor Crafting Kits. Use this item to open and unpack it.
+resourceresourceArrowHeadIronBundleDesc,This is a compact stack of Iron Arrowheads. Use this item to open and unpack it.
+resourceresourceArrowHeadSteelAPBundleDesc,This is a compact stack of Steel Arrowheads. Use this item to open and unpack it.
+resourceresourceBrokenGlassBundleDesc,This is a compact stack of Broken Glass. Use this item to open and unpack it.
+resourceresourceBuckshotBundleDesc,This is a compact stack of Buckshot. Use this item to open and unpack it.
+resourceresourceCropAloeLeafBundleDesc,This is a compact stack of Aloe Vera Leafs. Use this item to open and unpack it.
+resourceresourceCropChrysanthemumPlantBundleDesc,This is a compact stack of Chrysanthemum. Use this item to open and unpack it.
+resourceresourceCropCoffeeBeansBundleDesc,This is a compact stack of Coffee Beans. Use this item to open and unpack it.
+resourceresourceCropCottonPlantBundleDesc,This is a compact stack of Cotton. Use this item to open and unpack it.
+resourceresourceCropGoldenrodPlantBundleDesc,This is a compact stack of Goldenrod Flowers. Use this item to open and unpack it.
+resourceresourceCropHopsFlowerBundleDesc,This is a compact stack of Hops Flowers. Use this item to open and unpack it.
+resourceresourceCrushedSandBundleDesc,This is a compact stack of Crushed Sand. Use this item to open and unpack it.
+resourceresourceDuctTapeBundleDesc,This is a compact stack of Duct Tape. Use this item to open and unpack it.
+resourceresourceGlueBundleDesc,This is a compact stack of Glue. Use this item to open and unpack it.
+resourceresourceGoldNuggetBundleDesc,This is a compact stack of Gold Nuggets. Use this item to open and unpack it.
+resourceresourceHeadlightBundleDesc,This is a compact stack of Headlights. Use this item to open and unpack it.
+resourceresourceLegendaryPartsBundleDesc,This is a compact stack of Legendary Parts. Use this item to open and unpack it.
+resourceresourceMetalPileBundleDesc,This is a compact stack of Short Iron Pipes. Use this item to open and unpack it.
+resourceresourceNailBundleDesc,This is a compact stack of Nails. Use this item to open and unpack it.
+resourceresourcePaintBundleDesc,This is a compact stack of Paint. Use this item to open and unpack it.
+resourceresourceRawDiamondBundleDesc,This is a compact stack of Raw Diamonds. Use this item to open and unpack it.
+resourceresourceRepairKitBundleDesc,This is a compact stack of Repair Kits. Use this item to open and unpack it.
+resourceresourceRocketCasingBundleDesc,This is a compact stack of Rocket Casings. Use this item to open and unpack it.
+resourceresourceRocketTipBundleDesc,This is a compact stack of Rocket Tips. Use this item to open and unpack it.
+resourceresourceScopeLensBundleDesc,This is a compact stack of Scope Lens. Use this item to open and unpack it.
+resourceresourceSewingKitBundleDesc,This is a compact stack of Sewing kits. Use this item to open and unpack it.
+resourceresourceSilverNuggetBundleDesc,This is a compact stack of Silver Nuggets. Use this item to open and unpack it.
+resourceresourceSnowBallBundleDesc,This is a compact stack of Snow Balls. Use this item to open and unpack it.
+resourceresourceSpringBundleDesc,This is a compact stack of Spings. Use this item to open and unpack it.
+resourceresourceTestosteroneExtractBundleDesc,This is a compact stack of Testosterone Extract. Use this item to open and unpack it.
+resourceresourceYuccaFibersBundleDesc,This is a compact stack of Plant Fibers. Use this item to open and unpack it.
+resourcethrownAmmoMolotovCocktailBundleDesc,This is a compact stack of Molotov Cocktail. Use this item to open and unpack it.
+resourcethrownAmmoPipeBombBundleDesc,This is a compact stack of Pipe Bombs. Use this item to open and unpack it.
+resourcethrownDynamiteBundleDesc,This is a compact stack of Dynamite. Use this item to open and unpack it.
+resourcethrownGrenadeBundleDesc,This is a compact stack of Grenades. Use this item to open and unpack it.
+resourcethrownGrenadeContactBundleDesc,This is a compact stack of Contact Grenades. Use this item to open and unpack it.
+resourcethrownTimedChargeBundleDesc,This is a compact stack of Timed Charges. Use this item to open and unpack it.
+resourcetoolCookingGrillBundleDesc,This is a compact stack of Cooking Grills. Use this item to open and unpack it.
+resourcetoolCookingPotBundleDesc,This is a compact stack of Cooking Pots. Use this item to open and unpack it.
+resourcevehicleBicycleChassisBundleDesc,This is a compact stack of Bicycle Chassis. Use this item to open and unpack it.
+resourcevehicleBicycleHandlebarsBundleDesc,This is a compact stack of Bicycle Handlebars. Use this item to open and unpack it.
+resourcevehicleGyroCopterAccessoriesBundleDesc,This is a compact stack of Gyrocopter Accessories. Use this item to open and unpack it.
+resourcevehicleGyroCopterChassisBundleDesc,This is a compact stack of Gyrocopter Chassis. Use this item to open and unpack it.
+resourcevehicleMinibikeChassisBundleDesc,This is a compact stack of Minibike Chassis. Use this item to open and unpack it.
+resourcevehicleMinibikeHandlebarsBundleDesc,This is a compact stack of Minibike Handlebars. Use this item to open and unpack it.
+resourcevehicleMotorcycleChassisBundleDesc,This is a compact stack of Motorcycle Chassis. Use this item to open and unpack it.
+resourcevehicleMotorcycleHandlebarsBundleDesc,This is a compact stack of Motorcycle Handlebars. Use this item to open and unpack it.
+resourcevehicleTruck4x4AccessoriesBundleDesc,This is a compact stack of 4x4 Truck Accessories. Use this item to open and unpack it.
+resourcevehicleTruck4x4ChassisBundleDesc,This is a compact stack of 4x4 Truck Chassis. Use this item to open and unpack it.
+resourcevehicleWheelsBundleDesc,This is a compact stack of Wheels. Use this item to open and unpack it.
+resourceresourceBrassBundleDesc,This is a compact stack of Brass. Use this item to open and unpack it.
+resourceresourceLeatherBundleDesc,This is a compact stack of Leather. Use this item to open and unpack it.
+resourceresourceBoneBundleDesc,This is a compact stack of Bones. Use this item to open and unpack it.
+resourceresourceRottingFleshBundleDesc,This is a compact stack of Rotting Flesh. Use this item to open and unpack it.
+resourceresourceGunPowderBundleDesc,This is a compact stack of Gunpowder. Use this item to open and unpack it.
+resourceresourceCobblestonesBundleDesc,This is a compact stack of Cobblestones. Use this item to open and unpack it.
+resourceresourceConcreteMixBundleDesc,This is a compact stack of Concrete Mix. Use this item to open and unpack it.
+resourceresourceCementBundleDesc,This is a compact stack of Cement. Use this item to open and unpack it.
+resourceresourcePaperBundleDesc,This is a compact stack of Paper. Use this item to open and unpack it.
+resourceresourceElectricPartsBundleDesc,This is a compact stack of Electrical Parts. Use this item to open and unpack it.
+resourceresourceMechanicalPartsBundleDesc,This is a compact stack of Mechanical Parts. Use this item to open and unpack it.
+resourceresourceOilBundleDesc,This is a compact stack of Oil. Use this item to open and unpack it.
+resourceresourceFeatherBundleDesc,This is a compact stack of Feathers. Use this item to open and unpack it.
+resourceresourceForgedIronBundleDesc,This is a compact stack of Forged Iron. Use this item to open and unpack it.
+resourceresourceForgedSteelBundleDesc,This is a compact stack of Forged Steel. Use this item to open and unpack it.
+resourceammoDartIronBundleDesc,This is a compact stack of Iron Darts. Use this item to open and unpack it.
+resourcedrinkJarBoiledWaterBundleDesc,This is a compact stack of Boiled Water. Use this item to open and unpack it.
+resourcefoodRawMeatBundleDesc,This is a compact stack of Raw Meat. Use this item to open and unpack it.
+resourcefoodHoneyBundleDesc,This is a compact stack of Honey. Use this item to open and unpack it.
+resourcedrugAntibioticsBundleDesc,This is a compact stack of Antibiotics. Use this item to open and unpack it.
+resourcedrugFortBitesBundleDesc,This is a compact stack of Fort Bites. Use this item to open and unpack it.
+resourcedrugVitaminsBundleDesc,This is a compact stack of Vitamins. Use this item to open and unpack it.
+resourcedrugPainkillersBundleDesc,This is a compact stack of Painkillers. Use this item to open and unpack it.
+resourceresourceBulletTipBundleDesc,This is a compact stack of Bullet Tips. Use this item to open and unpack it.
+resourceresourceBulletCasingBundleDesc,This is a compact stack of Bullet Casings. Use this item to open and unpack it.
+resourcetoolBeakerBundleDesc,This is a compact stack of Beakers. Use this item to open and unpack it.
+resourceresourceLockPickBundleDesc,This is a compact stack of Lockpicks. Use this item to open and unpack it.
+resourceresourceClothBundleDesc,This is a compact stack of Cloth Fragments. Use this item to open and unpack it.

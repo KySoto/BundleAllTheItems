@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="BundleAllTheTHings" />
+	<DisplayName value="Bundle All The Things"/>
+	<Description value="Adds bundles for all stackble items except: books, schematics and vanilla bundles like iron and stone.  Based on IDontCare's Original mod for DF, IDCMoreItemBundlesDF" />
+	<Author value="KySoto" />
+	<Version value="1.0.0.0" />
+	<Website value="" />
+</xml>
