@@ -681,6 +681,9 @@
 		<recipe name="resourceRadiatorBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceRadiator" count="5"/>
 		</recipe>
+		<recipe name="resourcecasinoCoinBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="casinoCoin" count="20000"/>
+		</recipe>
 
 	</append>
 </config>
