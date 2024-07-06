@@ -441,8 +441,8 @@
 		<recipe name="resourceresourceLegendaryPartsBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceLegendaryParts" count="25"/>
 		</recipe>
-		<recipe name="resourceresourceMetalPileBundle" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="resourceMetalPile" count="500"/>
+		<recipe name="resourceresourceMetalPipeBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="resourceMetalPipe" count="500"/>
 		</recipe>
 		<recipe name="resourceresourceNailBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceNail" count="1000"/>

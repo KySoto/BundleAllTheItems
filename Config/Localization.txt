@@ -146,7 +146,7 @@ resourceresourceGlueBundle,Bundle of Glue(500)
 resourceresourceGoldNuggetBundle,Bundle of Gold Nuggets(250)
 resourceresourceHeadlightBundle,Bundle of Headlights(50)
 resourceresourceLegendaryPartsBundle,Bundle of Legendary Parts(25)
-resourceresourceMetalPileBundle,Bundle of Short Iron Pipes(500)
+resourceresourceMetalPipeBundle,Bundle of Short Iron Pipes(500)
 resourceresourceNailBundle,Bundle of Nails(1000)
 resourceresourcePaintBundle,Bundle of Paint(1000)
 resourceresourceRawDiamondBundle,Bundle of Raw Diamonds(250)
@@ -371,7 +371,7 @@ resourceresourceGlueBundleDesc,This is a compact stack of Glue. Use this item to
 resourceresourceGoldNuggetBundleDesc,This is a compact stack of Gold Nuggets. Use this item to open and unpack it.
 resourceresourceHeadlightBundleDesc,This is a compact stack of Headlights. Use this item to open and unpack it.
 resourceresourceLegendaryPartsBundleDesc,This is a compact stack of Legendary Parts. Use this item to open and unpack it.
-resourceresourceMetalPileBundleDesc,This is a compact stack of Short Iron Pipes. Use this item to open and unpack it.
+resourceresourceMetalPipeBundleDesc,This is a compact stack of Short Iron Pipes. Use this item to open and unpack it.
 resourceresourceNailBundleDesc,This is a compact stack of Nails. Use this item to open and unpack it.
 resourceresourcePaintBundleDesc,This is a compact stack of Paint. Use this item to open and unpack it.
 resourceresourceRawDiamondBundleDesc,This is a compact stack of Raw Diamonds. Use this item to open and unpack it.
