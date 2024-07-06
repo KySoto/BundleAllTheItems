@@ -309,8 +309,8 @@
 		<recipe name="resourcefoodSteakAndPotatoBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodSteakAndPotato" count="10"/>
 		</recipe>
-		<recipe name="resourcefoodTunaFishGraveyToastBundle" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="foodTunaFishGraveyToast" count="10"/>
+		<recipe name="resourcefoodTunaFishGravyToastBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="foodTunaFishGravyToast" count="10"/>
 		</recipe>
 		<recipe name="resourcefoodVegetableStewBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="foodVegetableStew" count="10"/>

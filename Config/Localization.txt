@@ -102,7 +102,7 @@ resourcefoodShamSandwichBundle,Bundle of Old Sham Sandwiches(10)
 resourcefoodShepardsPieBundle,Bundle of Shepards Pie(10)
 resourcefoodSpaghettiBundle,Bundle of Spaghetti(10)
 resourcefoodSteakAndPotatoBundle,Bundle of Steak and Potatos(10)
-resourcefoodTunaFishGraveyToastBundle,Bundle of Tuna Fish Gravey Toast(10)
+resourcefoodTunaFishGravyToastBundle,Bundle of Tuna Fish Gravy Toast(10)
 resourcefoodVegetableStewBundle,Bundle of Vegetable Stew(10)
 resourcegunBotRoboticsPartsBundle,Bundle of Robotics Parts(50)
 resourcegunBowT1WoodenBowPartsBundle,Bundle of Bow / Crossbow Parts(50)
@@ -327,7 +327,7 @@ resourcefoodShamSandwichBundleDesc,This is a compact stack of Old Sham Sandwiche
 resourcefoodShepardsPieBundleDesc,This is a compact stack of Shepards Pie. Use this item to open and unpack it.
 resourcefoodSpaghettiBundleDesc,This is a compact stack of Spaghetti. Use this item to open and unpack it.
 resourcefoodSteakAndPotatoBundleDesc,This is a compact stack of Steak and Potatos. Use this item to open and unpack it.
-resourcefoodTunaFishGraveyToastBundleDesc,This is a compact stack of Tuna Fish Gravey Toast. Use this item to open and unpack it.
+resourcefoodTunaFishGravyToastBundleDesc,This is a compact stack of Tuna Fish Gravy Toast. Use this item to open and unpack it.
 resourcefoodVegetableStewBundleDesc,This is a compact stack of Vegetable Stew. Use this item to open and unpack it.
 resourcegunBotRoboticsPartsBundleDesc,This is a compact stack of Robotics Parts. Use this item to open and unpack it.
 resourcegunBowT1WoodenBowPartsBundleDesc,This is a compact stack of Bow / Crossbow Parts. Use this item to open and unpack it.

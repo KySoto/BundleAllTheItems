@@ -945,12 +945,12 @@
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcefoodTunaFishGraveyToastBundle">
+		<item name="resourcefoodTunaFishGravyToastBundle">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodTunaFishGraveyToast"/>
-			<property name="DescriptionKey" value="resourcefoodTunaFishGraveyToastBundleDesc"/>
+			<property name="CustomIcon" value="foodTunaFishGravyToast"/>
+			<property name="DescriptionKey" value="resourcefoodTunaFishGravyToastBundleDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="foodTunaFishGraveyToast"/>
+				<property name="Create_item" value="foodTunaFishGravyToast"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
