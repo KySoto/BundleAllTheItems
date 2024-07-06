@@ -34,8 +34,8 @@ resourcedrinkJarBlackStrapCoffeeBundle,Bundle of Black Strap Coffee(10)
 resourcedrinkJarCoffeeBundle,Bundle of Coffee(10)
 resourcedrinkJarGoldenRodTeaBundle,Bundle of Goldenrod Tea(10)
 resourcedrinkJarGrandpasAwesomeSauceBundle,Bundle of Grandpa's Awesome Sauce(10)
-resourcedrinkJarGrandpasForgettingElixerBundle,Bundle of Grandpa's Fergit'n Elixer(10)
-resourcedrinkJarGrandpasLearningElixerBundle,Bundle of Grandpa's Learnin' Elixer(10)
+resourcedrinkJarGrandpasForgettingElixirBundle,Bundle of Grandpa's Fergit'n Elixir(10)
+resourcedrinkJarGrandpasLearningElixirBundle,Bundle of Grandpa's Learnin' Elixir(10)
 resourcedrinkJarGrandpasMoonshineBundle,Bundle of Grandpa's Moonshine(10)
 resourcedrinkJarPureMineralWaterBundle,Bundle of Pure Mineral Water(10)
 resourcedrinkJarRedTeaBundle,Bundle of Read Tea(10)
@@ -259,8 +259,8 @@ resourcedrinkJarBlackStrapCoffeeBundleDesc,This is a compact stack of Black Stra
 resourcedrinkJarCoffeeBundleDesc,This is a compact stack of Coffee. Use this item to open and unpack it.
 resourcedrinkJarGoldenRodTeaBundleDesc,This is a compact stack of Goldenrod Tea. Use this item to open and unpack it.
 resourcedrinkJarGrandpasAwesomeSauceBundleDesc,This is a compact stack of Grandpa's Awesome Sauce. Use this item to open and unpack it.
-resourcedrinkJarGrandpasForgettingElixerBundleDesc,This is a compact stack of Grandpa's Fergit'n Elixer. Use this item to open and unpack it.
-resourcedrinkJarGrandpasLearningElixerBundleDesc,This is a compact stack of Grandpa's Learnin' Elixer. Use this item to open and unpack it.
+resourcedrinkJarGrandpasForgettingElixirBundleDesc,This is a compact stack of Grandpa's Fergit'n Elixir. Use this item to open and unpack it.
+resourcedrinkJarGrandpasLearningElixirBundleDesc,This is a compact stack of Grandpa's Learnin' Elixir. Use this item to open and unpack it.
 resourcedrinkJarGrandpasMoonshineBundleDesc,This is a compact stack of Grandpa's Moonshine. Use this item to open and unpack it.
 resourcedrinkJarPureMineralWaterBundleDesc,This is a compact stack of Pure Mineral Water. Use this item to open and unpack it.
 resourcedrinkJarRedTeaBundleDesc,This is a compact stack of Read Tea. Use this item to open and unpack it.

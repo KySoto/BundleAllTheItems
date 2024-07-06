@@ -105,11 +105,11 @@
 		<recipe name="resourcedrinkJarGrandpasAwesomeSauceBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="drinkJarGrandpasAwesomeSauce" count="10"/>
 		</recipe>
-		<recipe name="resourcedrinkJarGrandpasForgettingElixerBundle" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="drinkJarGrandpasForgettingElixer" count="10"/>
+		<recipe name="resourcedrinkJarGrandpasForgettingElixirBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="drinkJarGrandpasForgettingElixir" count="10"/>
 		</recipe>
-		<recipe name="resourcedrinkJarGrandpasLearningElixerBundle" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="drinkJarGrandpasLearningElixer" count="10"/>
+		<recipe name="resourcedrinkJarGrandpasLearningElixirBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="drinkJarGrandpasLearningElixir" count="10"/>
 		</recipe>
 		<recipe name="resourcedrinkJarGrandpasMoonshineBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="drinkJarGrandpasMoonshine" count="10"/>
