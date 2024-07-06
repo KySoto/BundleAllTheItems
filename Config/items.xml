@@ -1,4 +1,4 @@
-<config>
+BundleKyDesc<config>
 	<append xpath="/items">
 		<item name="KyBundleMaster">
 			<property name="ItemTypeIcon" value="treasure"/>
@@ -17,2033 +17,2031 @@
 				<property name="Sound_start" value="close_garbage"/>
 			</property>
 		</item>
-		
-		<item name="resourceammo44MagnumBulletAPBundle">
+		<item name="resource44MagnumBulletAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo44MagnumBulletAP"/>
-			<property name="DescriptionKey" value="resourceammo44MagnumBulletAPBundleDesc"/>
+			<property name="DescriptionKey" value="resource44MagnumBulletAPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo44MagnumBulletAP"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammo44MagnumBulletBallBundle">
+		<item name="resource44MagnumBulletBallBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo44MagnumBulletBall"/>
-			<property name="DescriptionKey" value="resourceammo44MagnumBulletBallBundleDesc"/>
+			<property name="DescriptionKey" value="resource44MagnumBulletBallBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo44MagnumBulletBall"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammo44MagnumBulletHPBundle">
+		<item name="resource44MagnumBulletHPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo44MagnumBulletHP"/>
-			<property name="DescriptionKey" value="resourceammo44MagnumBulletHPBundleDesc"/>
+			<property name="DescriptionKey" value="resource44MagnumBulletHPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo44MagnumBulletHP"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammo762mmBulletAPBundle">
+		<item name="resource762mmBulletAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo762mmBulletAP"/>
-			<property name="DescriptionKey" value="resourceammo762mmBulletAPBundleDesc"/>
+			<property name="DescriptionKey" value="resource762mmBulletAPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo762mmBulletAP"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammo762mmBulletBallBundle">
+		<item name="resource762mmBulletBallBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo762mmBulletBall"/>
-			<property name="DescriptionKey" value="resourceammo762mmBulletBallBundleDesc"/>
+			<property name="DescriptionKey" value="resource762mmBulletBallBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo762mmBulletBall"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammo762mmBulletHPBundle">
+		<item name="resource762mmBulletHPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo762mmBulletHP"/>
-			<property name="DescriptionKey" value="resourceammo762mmBulletHPBundleDesc"/>
+			<property name="DescriptionKey" value="resource762mmBulletHPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo762mmBulletHP"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammo9mmBulletAPBundle">
+		<item name="resource9mmBulletAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo9mmBulletAP"/>
-			<property name="DescriptionKey" value="resourceammo9mmBulletAPBundleDesc"/>
+			<property name="DescriptionKey" value="resource9mmBulletAPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo9mmBulletAP"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammo9mmBulletBallBundle">
+		<item name="resource9mmBulletBallBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo9mmBulletBall"/>
-			<property name="DescriptionKey" value="resourceammo9mmBulletBallBundleDesc"/>
+			<property name="DescriptionKey" value="resource9mmBulletBallBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo9mmBulletBall"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammo9mmBulletHPBundle">
+		<item name="resource9mmBulletHPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo9mmBulletHP"/>
-			<property name="DescriptionKey" value="resourceammo9mmBulletHPBundleDesc"/>
+			<property name="DescriptionKey" value="resource9mmBulletHPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammo9mmBulletHP"/>
 				<property name="Create_item_count" value="300"/>
 			</property>
 		</item>
-		<item name="resourceammoArrowExplodingBundle">
+		<item name="resourceArrowExplodingBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoArrowExploding"/>
-			<property name="DescriptionKey" value="resourceammoArrowExplodingBundleDesc"/>
+			<property name="DescriptionKey" value="resourceArrowExplodingBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoArrowExploding"/>
 				<property name="Create_item_count" value="75"/>
 			</property>
 		</item>
-		<item name="resourceammoArrowFlamingBundle">
+		<item name="resourceArrowFlamingBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoArrowFlaming"/>
-			<property name="DescriptionKey" value="resourceammoArrowFlamingBundleDesc"/>
+			<property name="DescriptionKey" value="resourceArrowFlamingBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoArrowFlaming"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoArrowIronBundle">
+		<item name="resourceArrowIronBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoArrowIron"/>
-			<property name="DescriptionKey" value="resourceammoArrowIronBundleDesc"/>
+			<property name="DescriptionKey" value="resourceArrowIronBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoArrowIron"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoArrowSteelAPBundle">
+		<item name="resourceArrowSteelAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoArrowSteelAP"/>
-			<property name="DescriptionKey" value="resourceammoArrowSteelAPBundleDesc"/>
+			<property name="DescriptionKey" value="resourceArrowSteelAPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoArrowSteelAP"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoArrowStoneBundle">
+		<item name="resourceArrowStoneBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoArrowStone"/>
-			<property name="DescriptionKey" value="resourceammoArrowStoneBundleDesc"/>
+			<property name="DescriptionKey" value="resourceArrowStoneBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoArrowStone"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoCrossbowBoltExplodingBundle">
+		<item name="resourceCrossbowBoltExplodingBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoCrossbowBoltExploding"/>
-			<property name="DescriptionKey" value="resourceammoCrossbowBoltExplodingBundleDesc"/>
+			<property name="DescriptionKey" value="resourceCrossbowBoltExplodingBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoCrossbowBoltExploding"/>
 				<property name="Create_item_count" value="75"/>
 			</property>
 		</item>
-		<item name="resourceammoCrossbowBoltFlamingBundle">
+		<item name="resourceCrossbowBoltFlamingBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoCrossbowBoltFlaming"/>
-			<property name="DescriptionKey" value="resourceammoCrossbowBoltFlamingBundleDesc"/>
+			<property name="DescriptionKey" value="resourceCrossbowBoltFlamingBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoCrossbowBoltFlaming"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoCrossbowBoltIronBundle">
+		<item name="resourceCrossbowBoltIronBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoCrossbowBoltIron"/>
-			<property name="DescriptionKey" value="resourceammoCrossbowBoltIronBundleDesc"/>
+			<property name="DescriptionKey" value="resourceCrossbowBoltIronBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoCrossbowBoltIron"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoCrossbowBoltSteelAPBundle">
+		<item name="resourceCrossbowBoltSteelAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoCrossbowBoltSteelAP"/>
-			<property name="DescriptionKey" value="resourceammoCrossbowBoltSteelAPBundleDesc"/>
+			<property name="DescriptionKey" value="resourceCrossbowBoltSteelAPBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoCrossbowBoltSteelAP"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoCrossbowBoltStoneBundle">
+		<item name="resourceCrossbowBoltStoneBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoCrossbowBoltStone"/>
-			<property name="DescriptionKey" value="resourceammoCrossbowBoltStoneBundleDesc"/>
+			<property name="DescriptionKey" value="resourceCrossbowBoltStoneBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoCrossbowBoltStone"/>
 				<property name="Create_item_count" value="150"/>
 			</property>
 		</item>
-		<item name="resourceammoGasCanBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoGasCan"/>
-			<property name="DescriptionKey" value="resourceammoGasCanBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoGasCan"/>
-				<property name="Create_item_count" value="10000"/>
-			</property>
-		</item>
-		<item name="resourceammoJunkTurretAPBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoJunkTurretAP"/>
-			<property name="DescriptionKey" value="resourceammoJunkTurretAPBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoJunkTurretAP"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceammoJunkTurretRegularBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoJunkTurretRegular"/>
-			<property name="DescriptionKey" value="resourceammoJunkTurretRegularBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoJunkTurretRegular"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceammoJunkTurretShellBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoJunkTurretShell"/>
-			<property name="DescriptionKey" value="resourceammoJunkTurretShellBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoJunkTurretShell"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceammoRocketFragBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoRocketFrag"/>
-			<property name="DescriptionKey" value="resourceammoRocketFragBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoRocketFrag"/>
-				<property name="Create_item_count" value="20"/>
-			</property>
-		</item>
-		<item name="resourceammoRocketHEBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoRocketHE"/>
-			<property name="DescriptionKey" value="resourceammoRocketHEBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoRocketHE"/>
-				<property name="Create_item_count" value="20"/>
-			</property>
-		</item>
-		<item name="resourceammoShotgunBreachingSlugBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoShotgunBreachingSlug"/>
-			<property name="DescriptionKey" value="resourceammoShotgunBreachingSlugBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoShotgunBreachingSlug"/>
-				<property name="Create_item_count" value="150"/>
-			</property>
-		</item>
-		<item name="resourceammoShotgunShellBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoShotgunShell"/>
-			<property name="DescriptionKey" value="resourceammoShotgunShellBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoShotgunShell"/>
-				<property name="Create_item_count" value="150"/>
-			</property>
-		</item>
-		<item name="resourceammoShotgunSlugBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="ammoShotgunSlug"/>
-			<property name="DescriptionKey" value="resourceammoShotgunSlugBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="ammoShotgunSlug"/>
-				<property name="Create_item_count" value="150"/>
-			</property>
-		</item>
-		<item name="resourcearmorPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="armorParts"/>
-			<property name="DescriptionKey" value="resourcearmorPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="armorParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcedrinkCanMegaCrushBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkCanMegaCrush"/>
-			<property name="DescriptionKey" value="resourcedrinkCanMegaCrushBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkCanMegaCrush"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarBeerBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarBeer"/>
-			<property name="DescriptionKey" value="resourcedrinkJarBeerBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarBeer"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarBlackStrapCoffeeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarBlackStrapCoffee"/>
-			<property name="DescriptionKey" value="resourcedrinkJarBlackStrapCoffeeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarBlackStrapCoffee"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarCoffeeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarCoffee"/>
-			<property name="DescriptionKey" value="resourcedrinkJarCoffeeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarCoffee"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarGoldenRodTeaBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarGoldenRodTea"/>
-			<property name="DescriptionKey" value="resourcedrinkJarGoldenRodTeaBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarGoldenRodTea"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarGrandpasAwesomeSauceBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarGrandpasAwesomeSauce"/>
-			<property name="DescriptionKey" value="resourcedrinkJarGrandpasAwesomeSauceBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarGrandpasAwesomeSauce"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarGrandpasForgettingElixirBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarGrandpasForgettingElixir"/>
-			<property name="DescriptionKey" value="resourcedrinkJarGrandpasForgettingElixirBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarGrandpasForgettingElixir"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarGrandpasLearningElixirBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarGrandpasLearningElixir"/>
-			<property name="DescriptionKey" value="resourcedrinkJarGrandpasLearningElixirBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarGrandpasLearningElixir"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarGrandpasMoonshineBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarGrandpasMoonshine"/>
-			<property name="DescriptionKey" value="resourcedrinkJarGrandpasMoonshineBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarGrandpasMoonshine"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarPureMineralWaterBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarPureMineralWater"/>
-			<property name="DescriptionKey" value="resourcedrinkJarPureMineralWaterBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarPureMineralWater"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarRedTeaBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarRedTea"/>
-			<property name="DescriptionKey" value="resourcedrinkJarRedTeaBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarRedTea"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarRiverWaterBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarRiverWater"/>
-			<property name="DescriptionKey" value="resourcedrinkJarRiverWaterBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarRiverWater"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcedrinkJarYuccaJuiceBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkJarYuccaJuice"/>
-			<property name="DescriptionKey" value="resourcedrinkJarYuccaJuiceBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkJarYuccaJuice"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrinkYuccaJuiceSmoothieBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drinkYuccaJuiceSmoothie"/>
-			<property name="DescriptionKey" value="resourcedrinkYuccaJuiceSmoothieBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drinkYuccaJuiceSmoothie"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugAtomJunkiesBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugAtomJunkies"/>
-			<property name="DescriptionKey" value="resourcedrugAtomJunkiesBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugAtomJunkies"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugCovertCatsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugCovertCats"/>
-			<property name="DescriptionKey" value="resourcedrugCovertCatsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugCovertCats"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugEyeKandyBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugEyeKandy"/>
-			<property name="DescriptionKey" value="resourcedrugEyeKandyBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugEyeKandy"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugHackersBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugHackers"/>
-			<property name="DescriptionKey" value="resourcedrugHackersBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugHackers"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugHealthBarBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugHealthBar"/>
-			<property name="DescriptionKey" value="resourcedrugHealthBarBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugHealthBar"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugHerbalAntibioticsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugHerbalAntibiotics"/>
-			<property name="DescriptionKey" value="resourcedrugHerbalAntibioticsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugHerbalAntibiotics"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugJailBreakersBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugJailBreakers"/>
-			<property name="DescriptionKey" value="resourcedrugJailBreakersBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugJailBreakers"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugNerdTatsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugNerdTats"/>
-			<property name="DescriptionKey" value="resourcedrugNerdTatsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugNerdTats"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugOhShitzDropsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugOhShitzDrops"/>
-			<property name="DescriptionKey" value="resourcedrugOhShitzDropsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugOhShitzDrops"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugRecogBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugRecog"/>
-			<property name="DescriptionKey" value="resourcedrugRecogBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugRecog"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugRockBustersBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugRockBusters"/>
-			<property name="DescriptionKey" value="resourcedrugRockBustersBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugRockBusters"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugSkullCrushersBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugSkullCrushers"/>
-			<property name="DescriptionKey" value="resourcedrugSkullCrushersBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugSkullCrushers"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugSteroidsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugSteroids"/>
-			<property name="DescriptionKey" value="resourcedrugSteroidsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugSteroids"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcedrugSugarButtsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugSugarButts"/>
-			<property name="DescriptionKey" value="resourcedrugSugarButtsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="drugSugarButts"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodBaconAndEggsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodBaconAndEggs"/>
-			<property name="DescriptionKey" value="resourcefoodBaconAndEggsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodBaconAndEggs"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodBakedPotatoBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodBakedPotato"/>
-			<property name="DescriptionKey" value="resourcefoodBakedPotatoBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodBakedPotato"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodBlueberryPieBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodBlueberryPie"/>
-			<property name="DescriptionKey" value="resourcefoodBlueberryPieBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodBlueberryPie"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodBoiledMeatBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodBoiledMeat"/>
-			<property name="DescriptionKey" value="resourcefoodBoiledMeatBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodBoiledMeat"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanBeefBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanBeef"/>
-			<property name="DescriptionKey" value="resourcefoodCanBeefBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanBeef"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanCatfoodBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanCatfood"/>
-			<property name="DescriptionKey" value="resourcefoodCanCatfoodBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanCatfood"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanChickenBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanChicken"/>
-			<property name="DescriptionKey" value="resourcefoodCanChickenBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanChicken"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanChiliBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanChili"/>
-			<property name="DescriptionKey" value="resourcefoodCanChiliBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanChili"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanDogfoodBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanDogfood"/>
-			<property name="DescriptionKey" value="resourcefoodCanDogfoodBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanDogfood"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanLambBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanLamb"/>
-			<property name="DescriptionKey" value="resourcefoodCanLambBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanLamb"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanMisoBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanMiso"/>
-			<property name="DescriptionKey" value="resourcefoodCanMisoBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanMiso"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanPastaBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanPasta"/>
-			<property name="DescriptionKey" value="resourcefoodCanPastaBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanPasta"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanPearsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanPears"/>
-			<property name="DescriptionKey" value="resourcefoodCanPearsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanPears"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanPeasBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanPeas"/>
-			<property name="DescriptionKey" value="resourcefoodCanPeasBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanPeas"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanSalmonBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanSalmon"/>
-			<property name="DescriptionKey" value="resourcefoodCanSalmonBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanSalmon"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanShamBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanSham"/>
-			<property name="DescriptionKey" value="resourcefoodCanShamBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanSham"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanSoupBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanSoup"/>
-			<property name="DescriptionKey" value="resourcefoodCanSoupBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanSoup"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanStockBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanStock"/>
-			<property name="DescriptionKey" value="resourcefoodCanStockBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanStock"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCanTunaBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCanTuna"/>
-			<property name="DescriptionKey" value="resourcefoodCanTunaBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCanTuna"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCharredMeatBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCharredMeat"/>
-			<property name="DescriptionKey" value="resourcefoodCharredMeatBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCharredMeat"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodChiliDogBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodChiliDog"/>
-			<property name="DescriptionKey" value="resourcefoodChiliDogBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodChiliDog"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCornBreadBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCornBread"/>
-			<property name="DescriptionKey" value="resourcefoodCornBreadBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCornBread"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCornMealBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCornMeal"/>
-			<property name="DescriptionKey" value="resourcefoodCornMealBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCornMeal"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCornOnTheCobBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCornOnTheCob"/>
-			<property name="DescriptionKey" value="resourcefoodCornOnTheCobBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCornOnTheCob"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropBlueberriesBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropBlueberries"/>
-			<property name="DescriptionKey" value="resourcefoodCropBlueberriesBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropBlueberries"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropCornBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropCorn"/>
-			<property name="DescriptionKey" value="resourcefoodCropCornBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropCorn"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropGraceCornBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropGraceCorn"/>
-			<property name="DescriptionKey" value="resourcefoodCropGraceCornBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropGraceCorn"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropMushroomsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropMushrooms"/>
-			<property name="DescriptionKey" value="resourcefoodCropMushroomsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropMushrooms"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropPotatoBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropPotato"/>
-			<property name="DescriptionKey" value="resourcefoodCropPotatoBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropPotato"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropPumpkinBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropPumpkin"/>
-			<property name="DescriptionKey" value="resourcefoodCropPumpkinBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropPumpkin"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodCropYuccaFruitBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropYuccaFruit"/>
-			<property name="DescriptionKey" value="resourcefoodCropYuccaFruitBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodCropYuccaFruit"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodEggBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodEgg"/>
-			<property name="DescriptionKey" value="resourcefoodEggBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodEgg"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodEggBoiledBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodEggBoiled"/>
-			<property name="DescriptionKey" value="resourcefoodEggBoiledBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodEggBoiled"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodFishTacosBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodFishTacos"/>
-			<property name="DescriptionKey" value="resourcefoodFishTacosBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodFishTacos"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodGrilledMeatBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodGrilledMeat"/>
-			<property name="DescriptionKey" value="resourcefoodGrilledMeatBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodGrilledMeat"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodGumboStewBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodGumboStew"/>
-			<property name="DescriptionKey" value="resourcefoodGumboStewBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodGumboStew"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodHoboStewBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodHoboStew"/>
-			<property name="DescriptionKey" value="resourcefoodHoboStewBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodHoboStew"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodMeatStewBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodMeatStew"/>
-			<property name="DescriptionKey" value="resourcefoodMeatStewBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodMeatStew"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodPumpkinBreadBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodPumpkinBread"/>
-			<property name="DescriptionKey" value="resourcefoodPumpkinBreadBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodPumpkinBread"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodPumpkinCheesecakeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodPumpkinCheesecake"/>
-			<property name="DescriptionKey" value="resourcefoodPumpkinCheesecakeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodPumpkinCheesecake"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodPumpkinPieBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodPumpkinPie"/>
-			<property name="DescriptionKey" value="resourcefoodPumpkinPieBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodPumpkinPie"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodShamChowderBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodShamChowder"/>
-			<property name="DescriptionKey" value="resourcefoodShamChowderBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodShamChowder"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodShamSandwichBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodShamSandwich"/>
-			<property name="DescriptionKey" value="resourcefoodShamSandwichBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodShamSandwich"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodShepardsPieBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodShepardsPie"/>
-			<property name="DescriptionKey" value="resourcefoodShepardsPieBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodShepardsPie"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodSpaghettiBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodSpaghetti"/>
-			<property name="DescriptionKey" value="resourcefoodSpaghettiBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodSpaghetti"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodSteakAndPotatoBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodSteakAndPotato"/>
-			<property name="DescriptionKey" value="resourcefoodSteakAndPotatoBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodSteakAndPotato"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodTunaFishGravyToastBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodTunaFishGravyToast"/>
-			<property name="DescriptionKey" value="resourcefoodTunaFishGravyToastBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodTunaFishGravyToast"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcefoodVegetableStewBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodVegetableStew"/>
-			<property name="DescriptionKey" value="resourcefoodVegetableStewBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodVegetableStew"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcegunBotRoboticsPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunBotRoboticsParts"/>
-			<property name="DescriptionKey" value="resourcegunBotRoboticsPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunBotRoboticsParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunBowT1WoodenBowPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunBowT1WoodenBowParts"/>
-			<property name="DescriptionKey" value="resourcegunBowT1WoodenBowPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunBowT1WoodenBowParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunExplosivesT3RocketLauncherPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunExplosivesT3RocketLauncherParts"/>
-			<property name="DescriptionKey" value="resourcegunExplosivesT3RocketLauncherPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunExplosivesT3RocketLauncherParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunHandgunT1PistolPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunHandgunT1PistolParts"/>
-			<property name="DescriptionKey" value="resourcegunHandgunT1PistolPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunHandgunT1PistolParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunMGT1AK47PartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunMGT1AK47Parts"/>
-			<property name="DescriptionKey" value="resourcegunMGT1AK47PartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunMGT1AK47Parts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunRifleT1HuntingRiflePartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunRifleT1HuntingRifleParts"/>
-			<property name="DescriptionKey" value="resourcegunRifleT1HuntingRiflePartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunRifleT1HuntingRifleParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcegunShotgunT1DoubleBarrelPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="gunShotgunT1DoubleBarrelParts"/>
-			<property name="DescriptionKey" value="resourcegunShotgunT1DoubleBarrelPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="gunShotgunT1DoubleBarrelParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemedicalAloeCreamBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalAloeCream"/>
-			<property name="DescriptionKey" value="resourcemedicalAloeCreamBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalAloeCream"/>
-				<property name="Create_item_count" value="15"/>
-			</property>
-		</item>
-		<item name="resourcemedicalBandageBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalBandage"/>
-			<property name="DescriptionKey" value="resourcemedicalBandageBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalBandage"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcemedicalBloodBagBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalBloodBag"/>
-			<property name="DescriptionKey" value="resourcemedicalBloodBagBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalBloodBag"/>
-				<property name="Create_item_count" value="15"/>
-			</property>
-		</item>
-		<item name="resourcemedicalFirstAidBandageBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalFirstAidBandage"/>
-			<property name="DescriptionKey" value="resourcemedicalFirstAidBandageBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalFirstAidBandage"/>
-				<property name="Create_item_count" value="5"/>
-			</property>
-		</item>
-		<item name="resourcemedicalFirstAidKitBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalFirstAidKit"/>
-			<property name="DescriptionKey" value="resourcemedicalFirstAidKitBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalFirstAidKit"/>
-				<property name="Create_item_count" value="5"/>
-			</property>
-		</item>
-		<item name="resourcemedicalPlasterCastBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalPlasterCast"/>
-			<property name="DescriptionKey" value="resourcemedicalPlasterCastBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalPlasterCast"/>
-				<property name="Create_item_count" value="5"/>
-			</property>
-		</item>
-		<item name="resourcemedicalSplintBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="medicalSplint"/>
-			<property name="DescriptionKey" value="resourcemedicalSplintBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="medicalSplint"/>
-				<property name="Create_item_count" value="5"/>
-			</property>
-		</item>
-		<item name="resourcemeleeToolAllSteelPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeToolAllSteelParts"/>
-			<property name="DescriptionKey" value="resourcemeleeToolAllSteelPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeToolAllSteelParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeToolAxeT3ChainsawPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeToolAxeT3ChainsawParts"/>
-			<property name="DescriptionKey" value="resourcemeleeToolAxeT3ChainsawPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeToolAxeT3ChainsawParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnBatonT2StunBatonPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnBatonT2StunBatonParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnBatonT2StunBatonPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnBatonT2StunBatonParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnBladeT3MachetePartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnBladeT3MacheteParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnBladeT3MachetePartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnBladeT3MacheteParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnClubT3SteelClubPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnClubT3SteelClubParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnClubT3SteelClubPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnClubT3SteelClubParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnKnucklesT3SteelKnucklesPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnKnucklesT3SteelKnucklesParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnKnucklesT3SteelKnucklesPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnKnucklesT3SteelKnucklesParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnSledgeT3SteelSledgehammerPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnSledgeT3SteelSledgehammerParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnSledgeT3SteelSledgehammerPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnSledgeT3SteelSledgehammerParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcemeleeWpnSpearT3SteelSpearPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="meleeWpnSpearT3SteelSpearParts"/>
-			<property name="DescriptionKey" value="resourcemeleeWpnSpearT3SteelSpearPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="meleeWpnSpearT3SteelSpearParts"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceoldCashBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="oldCash"/>
-			<property name="DescriptionKey" value="resourceoldCashBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="oldCash"/>
-				<property name="Create_item_count" value="10000"/>
-			</property>
-		</item>
-		<item name="resourceresourceAcidBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceAcid"/>
-			<property name="DescriptionKey" value="resourceresourceAcidBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceAcid"/>
-				<property name="Create_item_count" value="100"/>
-			</property>
-		</item>
-		<item name="resourceresourceAnimalFatBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceAnimalFat"/>
-			<property name="DescriptionKey" value="resourceresourceAnimalFatBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceAnimalFat"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceArmorCraftingKitBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceArmorCraftingKit"/>
-			<property name="DescriptionKey" value="resourceresourceArmorCraftingKitBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceArmorCraftingKit"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourceresourceArrowHeadIronBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceArrowHeadIron"/>
-			<property name="DescriptionKey" value="resourceresourceArrowHeadIronBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceArrowHeadIron"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceArrowHeadSteelAPBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceArrowHeadSteelAP"/>
-			<property name="DescriptionKey" value="resourceresourceArrowHeadSteelAPBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceArrowHeadSteelAP"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceBrokenGlassBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBrokenGlass"/>
-			<property name="DescriptionKey" value="resourceresourceBrokenGlassBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBrokenGlass"/>
-				<property name="Create_item_count" value="6000"/>
-			</property>
-		</item>
-		<item name="resourceresourceBuckshotBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBuckshot"/>
-			<property name="DescriptionKey" value="resourceresourceBuckshotBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBuckshot"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropAloeLeafBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropAloeLeaf"/>
-			<property name="DescriptionKey" value="resourceresourceCropAloeLeafBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropAloeLeaf"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropChrysanthemumPlantBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropChrysanthemumPlant"/>
-			<property name="DescriptionKey" value="resourceresourceCropChrysanthemumPlantBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropChrysanthemumPlant"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropCoffeeBeansBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropCoffeeBeans"/>
-			<property name="DescriptionKey" value="resourceresourceCropCoffeeBeansBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropCoffeeBeans"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropCottonPlantBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropCottonPlant"/>
-			<property name="DescriptionKey" value="resourceresourceCropCottonPlantBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropCottonPlant"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropGoldenrodPlantBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropGoldenrodPlant"/>
-			<property name="DescriptionKey" value="resourceresourceCropGoldenrodPlantBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropGoldenrodPlant"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCropHopsFlowerBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropHopsFlower"/>
-			<property name="DescriptionKey" value="resourceresourceCropHopsFlowerBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCropHopsFlower"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceCrushedSandBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCrushedSand"/>
-			<property name="DescriptionKey" value="resourceresourceCrushedSandBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCrushedSand"/>
-				<property name="Create_item_count" value="6000"/>
-			</property>
-		</item>
-		<item name="resourceresourceDuctTapeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceDuctTape"/>
-			<property name="DescriptionKey" value="resourceresourceDuctTapeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceDuctTape"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceGlueBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceGlue"/>
-			<property name="DescriptionKey" value="resourceresourceGlueBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceGlue"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceGoldNuggetBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceGoldNugget"/>
-			<property name="DescriptionKey" value="resourceresourceGoldNuggetBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceGoldNugget"/>
-				<property name="Create_item_count" value="250"/>
-			</property>
-		</item>
-		<item name="resourceresourceHeadlightBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceHeadlight"/>
-			<property name="DescriptionKey" value="resourceresourceHeadlightBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceHeadlight"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceresourceLegendaryPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceLegendaryParts"/>
-			<property name="DescriptionKey" value="resourceresourceLegendaryPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLegendaryParts"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourceresourceMetalPipeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceMetalPipe"/>
-			<property name="DescriptionKey" value="resourceresourceMetalPipeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMetalPipe"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceNailBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceNail"/>
-			<property name="DescriptionKey" value="resourceresourceNailBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceNail"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourcePaintBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourcePaint"/>
-			<property name="DescriptionKey" value="resourceresourcePaintBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourcePaint"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceRawDiamondBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceRawDiamond"/>
-			<property name="DescriptionKey" value="resourceresourceRawDiamondBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceRawDiamond"/>
-				<property name="Create_item_count" value="250"/>
-			</property>
-		</item>
-		<item name="resourceresourceRepairKitBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceRepairKit"/>
-			<property name="DescriptionKey" value="resourceresourceRepairKitBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceRepairKit"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourceresourceRocketCasingBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceRocketCasing"/>
-			<property name="DescriptionKey" value="resourceresourceRocketCasingBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceRocketCasing"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceresourceRocketTipBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceRocketTip"/>
-			<property name="DescriptionKey" value="resourceresourceRocketTipBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceRocketTip"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceScopeLensBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceScopeLens"/>
-			<property name="DescriptionKey" value="resourceresourceScopeLensBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceScopeLens"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourceresourceSewingKitBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceSewingKit"/>
-			<property name="DescriptionKey" value="resourceresourceSewingKitBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceSewingKit"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceresourceSilverNuggetBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceSilverNugget"/>
-			<property name="DescriptionKey" value="resourceresourceSilverNuggetBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceSilverNugget"/>
-				<property name="Create_item_count" value="250"/>
-			</property>
-		</item>
-		<item name="resourceresourceSnowBallBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceSnowBall"/>
-			<property name="DescriptionKey" value="resourceresourceSnowBallBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceSnowBall"/>
-				<property name="Create_item_count" value="6000"/>
-			</property>
-		</item>
-		<item name="resourceresourceSpringBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceSpring"/>
-			<property name="DescriptionKey" value="resourceresourceSpringBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceSpring"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceTestosteroneExtractBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceTestosteroneExtract"/>
-			<property name="DescriptionKey" value="resourceresourceTestosteroneExtractBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceTestosteroneExtract"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourceresourceYuccaFibersBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceYuccaFibers"/>
-			<property name="DescriptionKey" value="resourceresourceYuccaFibersBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceYuccaFibers"/>
-				<property name="Create_item_count" value="6000"/>
-			</property>
-		</item>
-		<item name="resourcethrownAmmoMolotovCocktailBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownAmmoMolotovCocktail"/>
-			<property name="DescriptionKey" value="resourcethrownAmmoMolotovCocktailBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownAmmoMolotovCocktail"/>
-				<property name="Create_item_count" value="20"/>
-			</property>
-		</item>
-		<item name="resourcethrownAmmoPipeBombBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownAmmoPipeBomb"/>
-			<property name="DescriptionKey" value="resourcethrownAmmoPipeBombBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownAmmoPipeBomb"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourcethrownDynamiteBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownDynamite"/>
-			<property name="DescriptionKey" value="resourcethrownDynamiteBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownDynamite"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcethrownGrenadeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownGrenade"/>
-			<property name="DescriptionKey" value="resourcethrownGrenadeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownGrenade"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourcethrownGrenadeContactBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownGrenadeContact"/>
-			<property name="DescriptionKey" value="resourcethrownGrenadeContactBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownGrenadeContact"/>
-				<property name="Create_item_count" value="25"/>
-			</property>
-		</item>
-		<item name="resourcethrownTimedChargeBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="thrownTimedCharge"/>
-			<property name="DescriptionKey" value="resourcethrownTimedChargeBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="thrownTimedCharge"/>
-				<property name="Create_item_count" value="10"/>
-			</property>
-		</item>
-		<item name="resourcetoolCookingGrillBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="toolCookingGrill"/>
-			<property name="DescriptionKey" value="resourcetoolCookingGrillBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="toolCookingGrill"/>
-				<property name="Create_item_count" value="3"/>
-			</property>
-		</item>
-		<item name="resourcetoolCookingPotBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="toolCookingPot"/>
-			<property name="DescriptionKey" value="resourcetoolCookingPotBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="toolCookingPot"/>
-				<property name="Create_item_count" value="3"/>
-			</property>
-		</item>
-		<item name="resourcevehicleBicycleChassisBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleBicycleChassis"/>
-			<property name="DescriptionKey" value="resourcevehicleBicycleChassisBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleBicycleChassis"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleBicycleHandlebarsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleBicycleHandlebars"/>
-			<property name="DescriptionKey" value="resourcevehicleBicycleHandlebarsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleBicycleHandlebars"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleGyroCopterAccessoriesBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleGyroCopterAccessories"/>
-			<property name="DescriptionKey" value="resourcevehicleGyroCopterAccessoriesBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleGyroCopterAccessories"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleGyroCopterChassisBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleGyroCopterChassis"/>
-			<property name="DescriptionKey" value="resourcevehicleGyroCopterChassisBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleGyroCopterChassis"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleMinibikeChassisBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleMinibikeChassis"/>
-			<property name="DescriptionKey" value="resourcevehicleMinibikeChassisBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleMinibikeChassis"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleMinibikeHandlebarsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleMinibikeHandlebars"/>
-			<property name="DescriptionKey" value="resourcevehicleMinibikeHandlebarsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleMinibikeHandlebars"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleMotorcycleChassisBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleMotorcycleChassis"/>
-			<property name="DescriptionKey" value="resourcevehicleMotorcycleChassisBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleMotorcycleChassis"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleMotorcycleHandlebarsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleMotorcycleHandlebars"/>
-			<property name="DescriptionKey" value="resourcevehicleMotorcycleHandlebarsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleMotorcycleHandlebars"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleTruck4x4AccessoriesBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleTruck4x4Accessories"/>
-			<property name="DescriptionKey" value="resourcevehicleTruck4x4AccessoriesBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleTruck4x4Accessories"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleTruck4x4ChassisBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleTruck4x4Chassis"/>
-			<property name="DescriptionKey" value="resourcevehicleTruck4x4ChassisBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleTruck4x4Chassis"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourcevehicleWheelsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="vehicleWheels"/>
-			<property name="DescriptionKey" value="resourcevehicleWheelsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="vehicleWheels"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceresourceBrassBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBrass"/>
-			<property name="DescriptionKey" value="resourceresourceBrassBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBrass"/>
-				<property name="Create_item_count" value="6000"/>
-			</property>
-		</item>
-		<item name="resourceresourceLeatherBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceLeather"/>
-			<property name="DescriptionKey" value="resourceresourceLeatherBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceLeather"/>
-				<property name="Create_item_count" value="250"/>
-			</property>
-		</item>
-		<item name="resourceresourceBoneBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBone"/>
-			<property name="DescriptionKey" value="resourceresourceBoneBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBone"/>
-				<property name="Create_item_count" value="1200"/>
-			</property>
-		</item>
-		<item name="resourceresourceRottingFleshBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceRottingFlesh"/>
-			<property name="DescriptionKey" value="resourceresourceRottingFleshBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceRottingFlesh"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourceresourceGunPowderBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceGunPowder"/>
-			<property name="DescriptionKey" value="resourceresourceGunPowderBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceGunPowder"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceCobblestonesBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCobblestones"/>
-			<property name="DescriptionKey" value="resourceresourceCobblestonesBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCobblestones"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceConcreteMixBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceConcreteMix"/>
-			<property name="DescriptionKey" value="resourceresourceConcreteMixBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceConcreteMix"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceCementBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCement"/>
-			<property name="DescriptionKey" value="resourceresourceCementBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceCement"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourcePaperBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourcePaper"/>
-			<property name="DescriptionKey" value="resourceresourcePaperBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourcePaper"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceElectricPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceElectricParts"/>
-			<property name="DescriptionKey" value="resourceresourceElectricPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceElectricParts"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceMechanicalPartsBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceMechanicalParts"/>
-			<property name="DescriptionKey" value="resourceresourceMechanicalPartsBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceMechanicalParts"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceOilBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceOil"/>
-			<property name="DescriptionKey" value="resourceresourceOilBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceOil"/>
-				<property name="Create_item_count" value="50"/>
-			</property>
-		</item>
-		<item name="resourceresourceFeatherBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceFeather"/>
-			<property name="DescriptionKey" value="resourceresourceFeatherBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceFeather"/>
-				<property name="Create_item_count" value="250"/>
-			</property>
-		</item>
-		<item name="resourceresourceForgedIronBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceForgedIron"/>
-			<property name="DescriptionKey" value="resourceresourceForgedIronBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceForgedIron"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceresourceForgedSteelBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceForgedSteel"/>
-			<property name="DescriptionKey" value="resourceresourceForgedSteelBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceForgedSteel"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceammoDartIronBundle">
+		<item name="resourceDartIronBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammoDartIron"/>
-			<property name="DescriptionKey" value="resourceammoDartIronBundleDesc"/>
+			<property name="DescriptionKey" value="resourceDartIronBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="ammoDartIron"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourcedrinkJarBoiledWaterBundle">
+		<item name="resourceGasCanBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoGasCan"/>
+			<property name="DescriptionKey" value="resourceGasCanBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoGasCan"/>
+				<property name="Create_item_count" value="10000"/>
+			</property>
+		</item>
+		<item name="resourceJunkTurretAPBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoJunkTurretAP"/>
+			<property name="DescriptionKey" value="resourceJunkTurretAPBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoJunkTurretAP"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceJunkTurretRegularBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoJunkTurretRegular"/>
+			<property name="DescriptionKey" value="resourceJunkTurretRegularBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoJunkTurretRegular"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceJunkTurretShellBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoJunkTurretShell"/>
+			<property name="DescriptionKey" value="resourceJunkTurretShellBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoJunkTurretShell"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceRocketFragBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoRocketFrag"/>
+			<property name="DescriptionKey" value="resourceRocketFragBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoRocketFrag"/>
+				<property name="Create_item_count" value="20"/>
+			</property>
+		</item>
+		<item name="resourceRocketHEBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoRocketHE"/>
+			<property name="DescriptionKey" value="resourceRocketHEBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoRocketHE"/>
+				<property name="Create_item_count" value="20"/>
+			</property>
+		</item>
+		<item name="resourceShotgunBreachingSlugBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoShotgunBreachingSlug"/>
+			<property name="DescriptionKey" value="resourceShotgunBreachingSlugBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoShotgunBreachingSlug"/>
+				<property name="Create_item_count" value="150"/>
+			</property>
+		</item>
+		<item name="resourceShotgunShellBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoShotgunShell"/>
+			<property name="DescriptionKey" value="resourceShotgunShellBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoShotgunShell"/>
+				<property name="Create_item_count" value="150"/>
+			</property>
+		</item>
+		<item name="resourceShotgunSlugBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoShotgunSlug"/>
+			<property name="DescriptionKey" value="resourceShotgunSlugBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoShotgunSlug"/>
+				<property name="Create_item_count" value="150"/>
+			</property>
+		</item>
+		<item name="resourcearmorPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="ammoarmorParts"/>
+			<property name="DescriptionKey" value="resourcearmorPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="ammoarmorParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceCanMegaCrushBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkCanMegaCrush"/>
+			<property name="DescriptionKey" value="resourceCanMegaCrushBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkCanMegaCrush"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarBeerBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarBeer"/>
+			<property name="DescriptionKey" value="resourceJarBeerBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarBeer"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarBlackStrapCoffeeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarBlackStrapCoffee"/>
+			<property name="DescriptionKey" value="resourceJarBlackStrapCoffeeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarBlackStrapCoffee"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarBoiledWaterBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="drinkJarBoiledWater"/>
-			<property name="DescriptionKey" value="resourcedrinkJarBoiledWaterBundleDesc"/>
+			<property name="DescriptionKey" value="resourceJarBoiledWaterBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="drinkJarBoiledWater"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcefoodRawMeatBundle">
+		<item name="resourceJarCoffeeBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodRawMeat"/>
-			<property name="DescriptionKey" value="resourcefoodRawMeatBundleDesc"/>
+			<property name="CustomIcon" value="drinkJarCoffee"/>
+			<property name="DescriptionKey" value="resourceJarCoffeeBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="foodRawMeat"/>
-				<property name="Create_item_count" value="125"/>
-			</property>
-		</item>
-		<item name="resourcefoodHoneyBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodHoney"/>
-			<property name="DescriptionKey" value="resourcefoodHoneyBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="foodHoney"/>
+				<property name="Create_item" value="drinkJarCoffee"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcedrugAntibioticsBundle">
+		<item name="resourceJarGoldenRodTeaBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarGoldenRodTea"/>
+			<property name="DescriptionKey" value="resourceJarGoldenRodTeaBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarGoldenRodTea"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarGrandpasAwesomeSauceBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarGrandpasAwesomeSauce"/>
+			<property name="DescriptionKey" value="resourceJarGrandpasAwesomeSauceBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarGrandpasAwesomeSauce"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarGrandpasForgettingElixirBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarGrandpasForgettingElixir"/>
+			<property name="DescriptionKey" value="resourceJarGrandpasForgettingElixirBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarGrandpasForgettingElixir"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarGrandpasLearningElixirBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarGrandpasLearningElixir"/>
+			<property name="DescriptionKey" value="resourceJarGrandpasLearningElixirBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarGrandpasLearningElixir"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarGrandpasMoonshineBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarGrandpasMoonshine"/>
+			<property name="DescriptionKey" value="resourceJarGrandpasMoonshineBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarGrandpasMoonshine"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarPureMineralWaterBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarPureMineralWater"/>
+			<property name="DescriptionKey" value="resourceJarPureMineralWaterBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarPureMineralWater"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarRedTeaBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarRedTea"/>
+			<property name="DescriptionKey" value="resourceJarRedTeaBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarRedTea"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJarRiverWaterBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarRiverWater"/>
+			<property name="DescriptionKey" value="resourceJarRiverWaterBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarRiverWater"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceJarYuccaJuiceBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkJarYuccaJuice"/>
+			<property name="DescriptionKey" value="resourceJarYuccaJuiceBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkJarYuccaJuice"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceYuccaJuiceSmoothieBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drinkYuccaJuiceSmoothie"/>
+			<property name="DescriptionKey" value="resourceYuccaJuiceSmoothieBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drinkYuccaJuiceSmoothie"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceAntibioticsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="drugAntibiotics"/>
-			<property name="DescriptionKey" value="resourcedrugAntibioticsBundleDesc"/>
+			<property name="DescriptionKey" value="resourceAntibioticsBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="drugAntibiotics"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcedrugFortBitesBundle">
+		<item name="resourceAtomJunkiesBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugAtomJunkies"/>
+			<property name="DescriptionKey" value="resourceAtomJunkiesBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugAtomJunkies"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCovertCatsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugCovertCats"/>
+			<property name="DescriptionKey" value="resourceCovertCatsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugCovertCats"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceEyeKandyBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugEyeKandy"/>
+			<property name="DescriptionKey" value="resourceEyeKandyBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugEyeKandy"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceFortBitesBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="drugFortBites"/>
-			<property name="DescriptionKey" value="resourcedrugFortBitesBundleDesc"/>
+			<property name="DescriptionKey" value="resourceFortBitesBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="drugFortBites"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcedrugVitaminsBundle">
+		<item name="resourceHackersBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="drugVitamins"/>
-			<property name="DescriptionKey" value="resourcedrugVitaminsBundleDesc"/>
+			<property name="CustomIcon" value="drugHackers"/>
+			<property name="DescriptionKey" value="resourceHackersBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="drugVitamins"/>
+				<property name="Create_item" value="drugHackers"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourcedrugPainkillersBundle">
+		<item name="resourceHealthBarBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugHealthBar"/>
+			<property name="DescriptionKey" value="resourceHealthBarBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugHealthBar"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceHerbalAntibioticsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugHerbalAntibiotics"/>
+			<property name="DescriptionKey" value="resourceHerbalAntibioticsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugHerbalAntibiotics"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceJailBreakersBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugJailBreakers"/>
+			<property name="DescriptionKey" value="resourceJailBreakersBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugJailBreakers"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceNerdTatsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugNerdTats"/>
+			<property name="DescriptionKey" value="resourceNerdTatsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugNerdTats"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceOhShitzDropsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugOhShitzDrops"/>
+			<property name="DescriptionKey" value="resourceOhShitzDropsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugOhShitzDrops"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourcePainkillersBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="drugPainkillers"/>
-			<property name="DescriptionKey" value="resourcedrugPainkillersBundleDesc"/>
+			<property name="DescriptionKey" value="resourcePainkillersBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="drugPainkillers"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourceresourceBulletTipBundle">
+		<item name="resourceRecogBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBulletTip"/>
-			<property name="DescriptionKey" value="resourceresourceBulletTipBundleDesc"/>
+			<property name="CustomIcon" value="drugRecog"/>
+			<property name="DescriptionKey" value="resourceRecogBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="resourceBulletTip"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourceresourceBulletCasingBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceBulletCasing"/>
-			<property name="DescriptionKey" value="resourceresourceBulletCasingBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="resourceBulletCasing"/>
-				<property name="Create_item_count" value="1000"/>
-			</property>
-		</item>
-		<item name="resourcetoolBeakerBundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="toolBeaker"/>
-			<property name="DescriptionKey" value="resourcetoolBeakerBundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="toolBeaker"/>
+				<property name="Create_item" value="drugRecog"/>
 				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourceresourceLockPickBundle">
+		<item name="resourceRockBustersBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceLockPick"/>
-			<property name="DescriptionKey" value="resourceresourceLockPickBundleDesc"/>
+			<property name="CustomIcon" value="drugRockBusters"/>
+			<property name="DescriptionKey" value="resourceRockBustersBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="resourceLockPick"/>
+				<property name="Create_item" value="drugRockBusters"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceSkullCrushersBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugSkullCrushers"/>
+			<property name="DescriptionKey" value="resourceSkullCrushersBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugSkullCrushers"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceSteroidsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugSteroids"/>
+			<property name="DescriptionKey" value="resourceSteroidsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugSteroids"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceSugarButtsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugSugarButts"/>
+			<property name="DescriptionKey" value="resourceSugarButtsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugSugarButts"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceVitaminsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="drugVitamins"/>
+			<property name="DescriptionKey" value="resourceVitaminsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="drugVitamins"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceBaconAndEggsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodBaconAndEggs"/>
+			<property name="DescriptionKey" value="resourceBaconAndEggsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodBaconAndEggs"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceBakedPotatoBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodBakedPotato"/>
+			<property name="DescriptionKey" value="resourceBakedPotatoBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodBakedPotato"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceBlueberryPieBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodBlueberryPie"/>
+			<property name="DescriptionKey" value="resourceBlueberryPieBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodBlueberryPie"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceBoiledMeatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodBoiledMeat"/>
+			<property name="DescriptionKey" value="resourceBoiledMeatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodBoiledMeat"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanBeefBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanBeef"/>
+			<property name="DescriptionKey" value="resourceCanBeefBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanBeef"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanCatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanCat"/>
+			<property name="DescriptionKey" value="resourceCanCatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanCat"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanChickenBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanChicken"/>
+			<property name="DescriptionKey" value="resourceCanChickenBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanChicken"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanChiliBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanChili"/>
+			<property name="DescriptionKey" value="resourceCanChiliBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanChili"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanDogBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanDog"/>
+			<property name="DescriptionKey" value="resourceCanDogBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanDog"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanLambBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanLamb"/>
+			<property name="DescriptionKey" value="resourceCanLambBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanLamb"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanMisoBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanMiso"/>
+			<property name="DescriptionKey" value="resourceCanMisoBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanMiso"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanPastaBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanPasta"/>
+			<property name="DescriptionKey" value="resourceCanPastaBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanPasta"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanPearsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanPears"/>
+			<property name="DescriptionKey" value="resourceCanPearsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanPears"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanPeasBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanPeas"/>
+			<property name="DescriptionKey" value="resourceCanPeasBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanPeas"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanSalmonBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanSalmon"/>
+			<property name="DescriptionKey" value="resourceCanSalmonBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanSalmon"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanShamBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanSham"/>
+			<property name="DescriptionKey" value="resourceCanShamBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanSham"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanSoupBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanSoup"/>
+			<property name="DescriptionKey" value="resourceCanSoupBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanSoup"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanStockBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanStock"/>
+			<property name="DescriptionKey" value="resourceCanStockBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanStock"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCanTunaBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCanTuna"/>
+			<property name="DescriptionKey" value="resourceCanTunaBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCanTuna"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCharredMeatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCharredMeat"/>
+			<property name="DescriptionKey" value="resourceCharredMeatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCharredMeat"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceChiliDogBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodChiliDog"/>
+			<property name="DescriptionKey" value="resourceChiliDogBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodChiliDog"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCornBreadBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCornBread"/>
+			<property name="DescriptionKey" value="resourceCornBreadBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCornBread"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCornMealBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCornMeal"/>
+			<property name="DescriptionKey" value="resourceCornMealBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCornMeal"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCornOnTheCobBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCornOnTheCob"/>
+			<property name="DescriptionKey" value="resourceCornOnTheCobBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCornOnTheCob"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCropBlueberriesBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropBlueberries"/>
+			<property name="DescriptionKey" value="resourceCropBlueberriesBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropBlueberries"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropCornBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropCorn"/>
+			<property name="DescriptionKey" value="resourceCropCornBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropCorn"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropGraceCornBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropGraceCorn"/>
+			<property name="DescriptionKey" value="resourceCropGraceCornBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropGraceCorn"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropMushroomsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropMushrooms"/>
+			<property name="DescriptionKey" value="resourceCropMushroomsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropMushrooms"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropPotatoBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropPotato"/>
+			<property name="DescriptionKey" value="resourceCropPotatoBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropPotato"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropPumpkinBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropPumpkin"/>
+			<property name="DescriptionKey" value="resourceCropPumpkinBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropPumpkin"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceCropYuccaFruitBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodCropYuccaFruit"/>
+			<property name="DescriptionKey" value="resourceCropYuccaFruitBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodCropYuccaFruit"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceEggBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodEgg"/>
+			<property name="DescriptionKey" value="resourceEggBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodEgg"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceEggBoiledBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodEggBoiled"/>
+			<property name="DescriptionKey" value="resourceEggBoiledBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodEggBoiled"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceFishTacosBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodFishTacos"/>
+			<property name="DescriptionKey" value="resourceFishTacosBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodFishTacos"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceGrilledMeatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodGrilledMeat"/>
+			<property name="DescriptionKey" value="resourceGrilledMeatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodGrilledMeat"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceGumboStewBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodGumboStew"/>
+			<property name="DescriptionKey" value="resourceGumboStewBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodGumboStew"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceHoboStewBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodHoboStew"/>
+			<property name="DescriptionKey" value="resourceHoboStewBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodHoboStew"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceHoneyBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodHoney"/>
+			<property name="DescriptionKey" value="resourceHoneyBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodHoney"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceMeatStewBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodMeatStew"/>
+			<property name="DescriptionKey" value="resourceMeatStewBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodMeatStew"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourcePumpkinBreadBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodPumpkinBread"/>
+			<property name="DescriptionKey" value="resourcePumpkinBreadBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodPumpkinBread"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourcePumpkinCheesecakeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodPumpkinCheesecake"/>
+			<property name="DescriptionKey" value="resourcePumpkinCheesecakeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodPumpkinCheesecake"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourcePumpkinPieBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodPumpkinPie"/>
+			<property name="DescriptionKey" value="resourcePumpkinPieBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodPumpkinPie"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceRawMeatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="DescriptionKey" value="resourceRawMeatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodRawMeat"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceRottingFleshBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodRottingFlesh"/>
+			<property name="DescriptionKey" value="resourceRottingFleshBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodRottingFlesh"/>
+				<property name="Create_item_count" value="125"/>
+			</property>
+		</item>
+		<item name="resourceShamChowderBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodShamChowder"/>
+			<property name="DescriptionKey" value="resourceShamChowderBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodShamChowder"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceShamSandwichBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodShamSandwich"/>
+			<property name="DescriptionKey" value="resourceShamSandwichBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodShamSandwich"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceShepardsPieBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodShepardsPie"/>
+			<property name="DescriptionKey" value="resourceShepardsPieBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodShepardsPie"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceSpaghettiBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodSpaghetti"/>
+			<property name="DescriptionKey" value="resourceSpaghettiBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodSpaghetti"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceSteakAndPotatoBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodSteakAndPotato"/>
+			<property name="DescriptionKey" value="resourceSteakAndPotatoBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodSteakAndPotato"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceTunaFishGravyToastBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodTunaFishGravyToast"/>
+			<property name="DescriptionKey" value="resourceTunaFishGravyToastBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodTunaFishGravyToast"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceVegetableStewBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="foodVegetableStew"/>
+			<property name="DescriptionKey" value="resourceVegetableStewBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="foodVegetableStew"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourcegunBotRoboticsPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="gungunBotRoboticsParts"/>
+			<property name="DescriptionKey" value="resourcegunBotRoboticsPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="gungunBotRoboticsParts"/>
 				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourceresourceClothBundle">
+		<item name="resourcegunBowT1WoodenBowPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCloth"/>
-			<property name="DescriptionKey" value="resourceresourceClothBundleDesc"/>
+			<property name="CustomIcon" value="gungunBowT1WoodenBowParts"/>
+			<property name="DescriptionKey" value="resourcegunBowT1WoodenBowPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="resourceCloth"/>
-				<property name="Create_item_count" value="250"/>
+				<property name="Create_item" value="gungunBowT1WoodenBowParts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcetreePlantedOak1mBundle">
+		<item name="resourcegunExplosivesT3RocketLauncherPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treePlantedOak1m"/>
-			<property name="DescriptionKey" value="resourcetreePlantedOak1mBundleDesc"/>
+			<property name="CustomIcon" value="gungunExplosivesT3RocketLauncherParts"/>
+			<property name="DescriptionKey" value="resourcegunExplosivesT3RocketLauncherPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treePlantedOak1m"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="gungunExplosivesT3RocketLauncherParts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcetreePlantedMountainPine1mBundle">
+		<item name="resourcegunHandgunT1PistolPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treePlantedMountainPine1m"/>
-			<property name="DescriptionKey" value="resourcetreePlantedMountainPine1mBundleDesc"/>
+			<property name="CustomIcon" value="gungunHandgunT1PistolParts"/>
+			<property name="DescriptionKey" value="resourcegunHandgunT1PistolPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treePlantedMountainPine1m"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="gungunHandgunT1PistolParts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourcetreePlantedWinterPine1mBundle">
+		<item name="resourcegunMGT1AK47PartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="treePlantedWinterPine1m"/>
-			<property name="DescriptionKey" value="resourcetreePlantedWinterPine1mBundleDesc"/>
+			<property name="CustomIcon" value="gungunMGT1AK47Parts"/>
+			<property name="DescriptionKey" value="resourcegunMGT1AK47PartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="treePlantedWinterPine1m"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="gungunMGT1AK47Parts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourceplantedtreeGrassSeed1Bundle">
+		<item name="resourcegunRifleT1HuntingRiflePartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedtreeGrassSeed1"/>
-			<property name="DescriptionKey" value="resourceplantedtreeGrassSeed1BundleDesc"/>
+			<property name="CustomIcon" value="gungunRifleT1HuntingRifleParts"/>
+			<property name="DescriptionKey" value="resourcegunRifleT1HuntingRiflePartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedtreeGrassSeed1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="gungunRifleT1HuntingRifleParts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourceplantedMushroom1Bundle">
+		<item name="resourcegunShotgunT1DoubleBarrelPartsBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedMushroom1"/>
-			<property name="DescriptionKey" value="resourceplantedMushroom1BundleDesc"/>
+			<property name="CustomIcon" value="gungunShotgunT1DoubleBarrelParts"/>
+			<property name="DescriptionKey" value="resourcegunShotgunT1DoubleBarrelPartsBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedMushroom1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="gungunShotgunT1DoubleBarrelParts"/>
+				<property name="Create_item_count" value="50"/>
 			</property>
 		</item>
-		<item name="resourceplantedYucca1Bundle">
+		<item name="resourceAloeCreamBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedYucca1"/>
-			<property name="DescriptionKey" value="resourceplantedYucca1BundleDesc"/>
+			<property name="CustomIcon" value="medicalAloeCream"/>
+			<property name="DescriptionKey" value="resourceAloeCreamBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedYucca1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="medicalAloeCream"/>
+				<property name="Create_item_count" value="15"/>
 			</property>
 		</item>
-		<item name="resourceplantedCotton1Bundle">
+		<item name="resourceBandageBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedCotton1"/>
-			<property name="DescriptionKey" value="resourceplantedCotton1BundleDesc"/>
+			<property name="CustomIcon" value="medicalBandage"/>
+			<property name="DescriptionKey" value="resourceBandageBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedCotton1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="medicalBandage"/>
+				<property name="Create_item_count" value="10"/>
 			</property>
 		</item>
-		<item name="resourceplantedCoffee1Bundle">
+		<item name="resourceBloodBagBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedCoffee1"/>
-			<property name="DescriptionKey" value="resourceplantedCoffee1BundleDesc"/>
+			<property name="CustomIcon" value="medicalBloodBag"/>
+			<property name="DescriptionKey" value="resourceBloodBagBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedCoffee1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="medicalBloodBag"/>
+				<property name="Create_item_count" value="15"/>
 			</property>
 		</item>
-		<item name="resourceplantedGoldenrod1Bundle">
+		<item name="resourceFirstAidBandageBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedGoldenrod1"/>
-			<property name="DescriptionKey" value="resourceplantedGoldenrod1BundleDesc"/>
+			<property name="CustomIcon" value="medicalFirstAidBandage"/>
+			<property name="DescriptionKey" value="resourceFirstAidBandageBundleKyDesc"/>
 			<property class="Action0">
-				<property name="Create_item" value="plantedGoldenrod1"/>
-				<property name="Create_item_count" value="500"/>
+				<property name="Create_item" value="medicalFirstAidBandage"/>
+				<property name="Create_item_count" value="5"/>
 			</property>
 		</item>
-		<item name="resourceplantedAloe1Bundle">
+		<item name="resourceFirstAidKitBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="medicalFirstAidKit"/>
+			<property name="DescriptionKey" value="resourceFirstAidKitBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="medicalFirstAidKit"/>
+				<property name="Create_item_count" value="5"/>
+			</property>
+		</item>
+		<item name="resourcePlasterCastBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="medicalPlasterCast"/>
+			<property name="DescriptionKey" value="resourcePlasterCastBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="medicalPlasterCast"/>
+				<property name="Create_item_count" value="5"/>
+			</property>
+		</item>
+		<item name="resourceSplintBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="medicalSplint"/>
+			<property name="DescriptionKey" value="resourceSplintBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="medicalSplint"/>
+				<property name="Create_item_count" value="5"/>
+			</property>
+		</item>
+		<item name="resourceToolAllSteelPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeToolAllSteelParts"/>
+			<property name="DescriptionKey" value="resourceToolAllSteelPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeToolAllSteelParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceToolAxeT3ChainsawPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeToolAxeT3ChainsawParts"/>
+			<property name="DescriptionKey" value="resourceToolAxeT3ChainsawPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeToolAxeT3ChainsawParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnBatonT2StunBatonPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnBatonT2StunBatonParts"/>
+			<property name="DescriptionKey" value="resourceWpnBatonT2StunBatonPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnBatonT2StunBatonParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnBladeT3MachetePartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnBladeT3MacheteParts"/>
+			<property name="DescriptionKey" value="resourceWpnBladeT3MachetePartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnBladeT3MacheteParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnClubT3SteelClubPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnClubT3SteelClubParts"/>
+			<property name="DescriptionKey" value="resourceWpnClubT3SteelClubPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnClubT3SteelClubParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnKnucklesT3SteelKnucklesPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnKnucklesT3SteelKnucklesParts"/>
+			<property name="DescriptionKey" value="resourceWpnKnucklesT3SteelKnucklesPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnKnucklesT3SteelKnucklesParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnSledgeT3SteelSledgehammerPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnSledgeT3SteelSledgehammerParts"/>
+			<property name="DescriptionKey" value="resourceWpnSledgeT3SteelSledgehammerPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnSledgeT3SteelSledgehammerParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWpnSpearT3SteelSpearPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="meleeWpnSpearT3SteelSpearParts"/>
+			<property name="DescriptionKey" value="resourceWpnSpearT3SteelSpearPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="meleeWpnSpearT3SteelSpearParts"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceoldCashBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="oldCash"/>
+			<property name="DescriptionKey" value="resourceoldCashBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="oldCash"/>
+				<property name="Create_item_count" value="10000"/>
+			</property>
+		</item>
+		<item name="resourceAloe1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedAloe1"/>
-			<property name="DescriptionKey" value="resourceplantedAloe1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceAloe1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedAloe1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedBlueberry1Bundle">
+		<item name="resourceBlueberry1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedBlueberry1"/>
-			<property name="DescriptionKey" value="resourceplantedBlueberry1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceBlueberry1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedBlueberry1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedPotato1Bundle">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedPotato1"/>
-			<property name="DescriptionKey" value="resourceplantedPotato1BundleDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="plantedPotato1"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
-		<item name="resourceplantedChrysanthemum1Bundle">
+		<item name="resourceChrysanthemum1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedChrysanthemum1"/>
-			<property name="DescriptionKey" value="resourceplantedChrysanthemum1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceChrysanthemum1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedChrysanthemum1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedCorn1Bundle">
+		<item name="resourceCoffee1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedCoffee1"/>
+			<property name="DescriptionKey" value="resourceCoffee1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedCoffee1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCorn1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedCorn1"/>
-			<property name="DescriptionKey" value="resourceplantedCorn1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceCorn1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedCorn1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedGraceCorn1Bundle">
+		<item name="resourceCotton1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedCotton1"/>
+			<property name="DescriptionKey" value="resourceCotton1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedCotton1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceGoldenrod1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedGoldenrod1"/>
+			<property name="DescriptionKey" value="resourceGoldenrod1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedGoldenrod1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceGraceCorn1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedGraceCorn1"/>
-			<property name="DescriptionKey" value="resourceplantedGraceCorn1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceGraceCorn1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedGraceCorn1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedHop1Bundle">
+		<item name="resourceHop1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedHop1"/>
-			<property name="DescriptionKey" value="resourceplantedHop1BundleDesc"/>
+			<property name="DescriptionKey" value="resourceHop1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedHop1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourceplantedPumpkin1Bundle">
+		<item name="resourceMushroom1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedMushroom1"/>
+			<property name="DescriptionKey" value="resourceMushroom1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedMushroom1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourcePotato1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedPotato1"/>
+			<property name="DescriptionKey" value="resourcePotato1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedPotato1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourcePumpkin1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedPumpkin1"/>
-			<property name="DescriptionKey" value="resourceplantedPumpkin1BundleDesc"/>
+			<property name="DescriptionKey" value="resourcePumpkin1BundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="plantedPumpkin1"/>
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-
+		<item name="resourcetreeGrassSeed1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedtreeGrassSeed1"/>
+			<property name="DescriptionKey" value="resourcetreeGrassSeed1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedtreeGrassSeed1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceYucca1BundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedYucca1"/>
+			<property name="DescriptionKey" value="resourceYucca1BundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedYucca1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceAcidBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceAcid"/>
+			<property name="DescriptionKey" value="resourceAcidBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceAcid"/>
+				<property name="Create_item_count" value="100"/>
+			</property>
+		</item>
+		<item name="resourceAnimalFatBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceAnimalFat"/>
+			<property name="DescriptionKey" value="resourceAnimalFatBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceAnimalFat"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceArmorCraftingKitBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceArmorCraftingKit"/>
+			<property name="DescriptionKey" value="resourceArmorCraftingKitBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceArmorCraftingKit"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceArrowHeadIronBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceArrowHeadIron"/>
+			<property name="DescriptionKey" value="resourceArrowHeadIronBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceArrowHeadIron"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceArrowHeadSteelAPBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceArrowHeadSteelAP"/>
+			<property name="DescriptionKey" value="resourceArrowHeadSteelAPBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceArrowHeadSteelAP"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceBoneBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceBone"/>
+			<property name="DescriptionKey" value="resourceBoneBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceBone"/>
+				<property name="Create_item_count" value="1200"/>
+			</property>
+		</item>
+		<item name="resourceBrokenGlassBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceBrokenGlass"/>
+			<property name="DescriptionKey" value="resourceBrokenGlassBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceBrokenGlass"/>
+				<property name="Create_item_count" value="6000"/>
+			</property>
+		</item>
+		<item name="resourceBuckshotBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceBuckshot"/>
+			<property name="DescriptionKey" value="resourceBuckshotBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceBuckshot"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceBulletCasingBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceBulletCasing"/>
+			<property name="DescriptionKey" value="resourceBulletCasingBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceBulletCasing"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceBulletTipBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceBulletTip"/>
+			<property name="DescriptionKey" value="resourceBulletTipBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceBulletTip"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceCementBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCement"/>
+			<property name="DescriptionKey" value="resourceCementBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCement"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceClothBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCloth"/>
+			<property name="DescriptionKey" value="resourceClothBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCloth"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceCobblestonesBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCobblestones"/>
+			<property name="DescriptionKey" value="resourceCobblestonesBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCobblestones"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceConcreteMixBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceConcreteMix"/>
+			<property name="DescriptionKey" value="resourceConcreteMixBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceConcreteMix"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceCropAloeLeafBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropAloeLeaf"/>
+			<property name="DescriptionKey" value="resourceCropAloeLeafBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropAloeLeaf"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCropChrysanthemumPlantBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropChrysanthemumPlant"/>
+			<property name="DescriptionKey" value="resourceCropChrysanthemumPlantBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropChrysanthemumPlant"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCropCoffeeBeansBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropCoffeeBeans"/>
+			<property name="DescriptionKey" value="resourceCropCoffeeBeansBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropCoffeeBeans"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCropCottonPlantBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropCottonPlant"/>
+			<property name="DescriptionKey" value="resourceCropCottonPlantBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropCottonPlant"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCropGoldenrodPlantBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropGoldenrodPlant"/>
+			<property name="DescriptionKey" value="resourceCropGoldenrodPlantBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropGoldenrodPlant"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCropHopsFlowerBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCropHopsFlower"/>
+			<property name="DescriptionKey" value="resourceCropHopsFlowerBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCropHopsFlower"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceCrushedSandBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceCrushedSand"/>
+			<property name="DescriptionKey" value="resourceCrushedSandBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceCrushedSand"/>
+				<property name="Create_item_count" value="6000"/>
+			</property>
+		</item>
+		<item name="resourceDuctTapeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceDuctTape"/>
+			<property name="DescriptionKey" value="resourceDuctTapeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceDuctTape"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceElectricPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceElectricParts"/>
+			<property name="DescriptionKey" value="resourceElectricPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceElectricParts"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceFeatherBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceFeather"/>
+			<property name="DescriptionKey" value="resourceFeatherBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceFeather"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceForgedIronBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceForgedIron"/>
+			<property name="DescriptionKey" value="resourceForgedIronBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceForgedIron"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceForgedSteelBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceForgedSteel"/>
+			<property name="DescriptionKey" value="resourceForgedSteelBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceForgedSteel"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceGlueBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceGlue"/>
+			<property name="DescriptionKey" value="resourceGlueBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceGlue"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceGoldNuggetBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceGoldNugget"/>
+			<property name="DescriptionKey" value="resourceGoldNuggetBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceGoldNugget"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceGunPowderBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceGunPowder"/>
+			<property name="DescriptionKey" value="resourceGunPowderBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceGunPowder"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceHeadlightBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceHeadlight"/>
+			<property name="DescriptionKey" value="resourceHeadlightBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceHeadlight"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceLeatherBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceLeather"/>
+			<property name="DescriptionKey" value="resourceLeatherBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceLeather"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceLegendaryPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceLegendaryParts"/>
+			<property name="DescriptionKey" value="resourceLegendaryPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceLegendaryParts"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceLockPickBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceLockPick"/>
+			<property name="DescriptionKey" value="resourceLockPickBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceLockPick"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceMechanicalPartsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceMechanicalParts"/>
+			<property name="DescriptionKey" value="resourceMechanicalPartsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceMechanicalParts"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceMetalPipeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceMetalPipe"/>
+			<property name="DescriptionKey" value="resourceMetalPipeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceMetalPipe"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceNailBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceNail"/>
+			<property name="DescriptionKey" value="resourceNailBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceNail"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourceOilBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceOil"/>
+			<property name="DescriptionKey" value="resourceOilBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceOil"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourcePaintBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourcePaint"/>
+			<property name="DescriptionKey" value="resourcePaintBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourcePaint"/>
+				<property name="Create_item_count" value="1000"/>
+			</property>
+		</item>
+		<item name="resourcePaperBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourcePaper"/>
+			<property name="DescriptionKey" value="resourcePaperBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourcePaper"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceRawDiamondBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceRawDiamond"/>
+			<property name="DescriptionKey" value="resourceRawDiamondBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceRawDiamond"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceRepairKitBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceRepairKit"/>
+			<property name="DescriptionKey" value="resourceRepairKitBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceRepairKit"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceRocketCasingBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceRocketCasing"/>
+			<property name="DescriptionKey" value="resourceRocketCasingBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceRocketCasing"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceRocketTipBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceRocketTip"/>
+			<property name="DescriptionKey" value="resourceRocketTipBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceRocketTip"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceScopeLensBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceScopeLens"/>
+			<property name="DescriptionKey" value="resourceScopeLensBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceScopeLens"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceScrapBrassBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceScrapBrass"/>
+			<property name="DescriptionKey" value="resourceScrapBrassBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceScrapBrass"/>
+				<property name="Create_item_count" value="6000"/>
+			</property>
+		</item>
+		<item name="resourceSewingKitBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceSewingKit"/>
+			<property name="DescriptionKey" value="resourceSewingKitBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSewingKit"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceSilverNuggetBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceSilverNugget"/>
+			<property name="DescriptionKey" value="resourceSilverNuggetBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSilverNugget"/>
+				<property name="Create_item_count" value="250"/>
+			</property>
+		</item>
+		<item name="resourceSnowBallBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceSnowBall"/>
+			<property name="DescriptionKey" value="resourceSnowBallBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSnowBall"/>
+				<property name="Create_item_count" value="6000"/>
+			</property>
+		</item>
+		<item name="resourceSpringBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceSpring"/>
+			<property name="DescriptionKey" value="resourceSpringBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceSpring"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceTestosteroneExtractBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceTestosteroneExtract"/>
+			<property name="DescriptionKey" value="resourceTestosteroneExtractBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceTestosteroneExtract"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceYuccaFibersBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="resourceYuccaFibers"/>
+			<property name="DescriptionKey" value="resourceYuccaFibersBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceYuccaFibers"/>
+				<property name="Create_item_count" value="6000"/>
+			</property>
+		</item>
+		<item name="resourceMolotovCocktailBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownMolotovCocktail"/>
+			<property name="DescriptionKey" value="resourceMolotovCocktailBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownMolotovCocktail"/>
+				<property name="Create_item_count" value="20"/>
+			</property>
+		</item>
+		<item name="resourcePipeBombBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownPipeBomb"/>
+			<property name="DescriptionKey" value="resourcePipeBombBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownPipeBomb"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceDynamiteBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownDynamite"/>
+			<property name="DescriptionKey" value="resourceDynamiteBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownDynamite"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceGrenadeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownGrenade"/>
+			<property name="DescriptionKey" value="resourceGrenadeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownGrenade"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceGrenadeContactBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownGrenadeContact"/>
+			<property name="DescriptionKey" value="resourceGrenadeContactBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownGrenadeContact"/>
+				<property name="Create_item_count" value="25"/>
+			</property>
+		</item>
+		<item name="resourceTimedChargeBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="thrownTimedCharge"/>
+			<property name="DescriptionKey" value="resourceTimedChargeBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="thrownTimedCharge"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceBeakerBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="toolBeaker"/>
+			<property name="DescriptionKey" value="resourceBeakerBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="toolBeaker"/>
+				<property name="Create_item_count" value="10"/>
+			</property>
+		</item>
+		<item name="resourceCookingGrillBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="toolCookingGrill"/>
+			<property name="DescriptionKey" value="resourceCookingGrillBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="toolCookingGrill"/>
+				<property name="Create_item_count" value="3"/>
+			</property>
+		</item>
+		<item name="resourceCookingPotBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="toolCookingPot"/>
+			<property name="DescriptionKey" value="resourceCookingPotBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="toolCookingPot"/>
+				<property name="Create_item_count" value="3"/>
+			</property>
+		</item>
+		<item name="resourceMountainPine1mBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treeMountainPine1m"/>
+			<property name="DescriptionKey" value="resourceMountainPine1mBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treeMountainPine1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceOak1mBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treeOak1m"/>
+			<property name="DescriptionKey" value="resourceOak1mBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treeOak1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceWinterPine1mBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treeWinterPine1m"/>
+			<property name="DescriptionKey" value="resourceWinterPine1mBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treeWinterPine1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceBicycleChassisBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleBicycleChassis"/>
+			<property name="DescriptionKey" value="resourceBicycleChassisBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleBicycleChassis"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceBicycleHandlebarsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleBicycleHandlebars"/>
+			<property name="DescriptionKey" value="resourceBicycleHandlebarsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleBicycleHandlebars"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceGyroCopterAccessoriesBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleGyroCopterAccessories"/>
+			<property name="DescriptionKey" value="resourceGyroCopterAccessoriesBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleGyroCopterAccessories"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceGyroCopterChassisBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleGyroCopterChassis"/>
+			<property name="DescriptionKey" value="resourceGyroCopterChassisBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleGyroCopterChassis"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceMinibikeChassisBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleMinibikeChassis"/>
+			<property name="DescriptionKey" value="resourceMinibikeChassisBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleMinibikeChassis"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceMinibikeHandlebarsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleMinibikeHandlebars"/>
+			<property name="DescriptionKey" value="resourceMinibikeHandlebarsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleMinibikeHandlebars"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceMotorcycleChassisBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleMotorcycleChassis"/>
+			<property name="DescriptionKey" value="resourceMotorcycleChassisBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleMotorcycleChassis"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceMotorcycleHandlebarsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleMotorcycleHandlebars"/>
+			<property name="DescriptionKey" value="resourceMotorcycleHandlebarsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleMotorcycleHandlebars"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceTruck4x4AccessoriesBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleTruck4x4Accessories"/>
+			<property name="DescriptionKey" value="resourceTruck4x4AccessoriesBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleTruck4x4Accessories"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceTruck4x4ChassisBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleTruck4x4Chassis"/>
+			<property name="DescriptionKey" value="resourceTruck4x4ChassisBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleTruck4x4Chassis"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
+		<item name="resourceWheelsBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="vehicleWheels"/>
+			<property name="DescriptionKey" value="resourceWheelsBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleWheels"/>
+				<property name="Create_item_count" value="50"/>
+			</property>
+		</item>
 
 	</append>
 </config>
