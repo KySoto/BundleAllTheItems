@@ -1890,6 +1890,159 @@
 				<property name="Create_item_count" value="250"/>
 			</property>
 		</item>
+		<item name="resourcetreePlantedOak1mBundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treePlantedOak1m"/>
+			<property name="DescriptionKey" value="resourcetreePlantedOak1mBundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treePlantedOak1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourcetreePlantedMountainPine1mBundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treePlantedMountainPine1m"/>
+			<property name="DescriptionKey" value="resourcetreePlantedMountainPine1mBundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treePlantedMountainPine1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourcetreePlantedWinterPine1mBundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="treePlantedWinterPine1m"/>
+			<property name="DescriptionKey" value="resourcetreePlantedWinterPine1mBundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="treePlantedWinterPine1m"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedtreeGrassSeed1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedtreeGrassSeed1"/>
+			<property name="DescriptionKey" value="resourceplantedtreeGrassSeed1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedtreeGrassSeed1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedMushroom1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedMushroom1"/>
+			<property name="DescriptionKey" value="resourceplantedMushroom1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedMushroom1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedYucca1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedYucca1"/>
+			<property name="DescriptionKey" value="resourceplantedYucca1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedYucca1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedCotton1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedCotton1"/>
+			<property name="DescriptionKey" value="resourceplantedCotton1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedCotton1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedCoffee1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedCoffee1"/>
+			<property name="DescriptionKey" value="resourceplantedCoffee1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedCoffee1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedGoldenrod1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedGoldenrod1"/>
+			<property name="DescriptionKey" value="resourceplantedGoldenrod1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedGoldenrod1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedAloe1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedAloe1"/>
+			<property name="DescriptionKey" value="resourceplantedAloe1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedAloe1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedBlueberry1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedBlueberry1"/>
+			<property name="DescriptionKey" value="resourceplantedBlueberry1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedBlueberry1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedPotato1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedPotato1"/>
+			<property name="DescriptionKey" value="resourceplantedPotato1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedPotato1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedChrysanthemum1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedChrysanthemum1"/>
+			<property name="DescriptionKey" value="resourceplantedChrysanthemum1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedChrysanthemum1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedCorn1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedCorn1"/>
+			<property name="DescriptionKey" value="resourceplantedCorn1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedCorn1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedGraceCorn1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedGraceCorn1"/>
+			<property name="DescriptionKey" value="resourceplantedGraceCorn1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedGraceCorn1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedHop1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedHop1"/>
+			<property name="DescriptionKey" value="resourceplantedHop1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedHop1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
+		<item name="resourceplantedPumpkin1Bundle">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="plantedPumpkin1"/>
+			<property name="DescriptionKey" value="resourceplantedPumpkin1BundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="plantedPumpkin1"/>
+				<property name="Create_item_count" value="500"/>
+			</property>
+		</item>
 
 
 	</append>

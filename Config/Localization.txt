@@ -207,6 +207,23 @@ resourceresourceBulletCasingBundle,Bundle of Bullet Casings(1000)
 resourcetoolBeakerBundle,Bundle of Beakers(10)
 resourceresourceLockPickBundle,Bundle of Lockpicks(50)
 resourceresourceClothBundle,Bundle of Cloth Fragments(250)
+resourcetreePlantedOak1mBundle,Bundle of Oak Seeds(500)
+resourcetreePlantedMountainPine1mBundle,Bundle of Pine Seeds(500)
+resourcetreePlantedWinterPine1mBundle,Bundle of Blue Spruce Seeds(500)
+resourceplantedtreeGrassSeed1Bundle,Bundle of Grass Seeds(500)
+resourceplantedMushroom1Bundle,Bundle of Mushroom Spores(500)
+resourceplantedYucca1Bundle,Bundle of Yucca Seeds(500)
+resourceplantedCotton1Bundle,Bundle of Cotton Seeds(500)
+resourceplantedCoffee1Bundle,Bundle of Coffee Seeds(500)
+resourceplantedGoldenrod1Bundle,Bundle of Goldenrod Seeds(500)
+resourceplantedAloe1Bundle,Bundle of Aloe Vera Seeds(500)
+resourceplantedBlueberry1Bundle,Bundle of Blueberry Seeds(500)
+resourceplantedPotato1Bundle,Bundle of Potato Seeds(500)
+resourceplantedChrysanthemum1Bundle,Bundle of Chrysanthemum Seeds(500)
+resourceplantedCorn1Bundle,Bundle of Corn Seeds(500)
+resourceplantedGraceCorn1Bundle,Bundle of Super Corn Seeds(500)
+resourceplantedHop1Bundle,Bundle of Hop Seeds(500)
+resourceplantedPumpkin1Bundle,Bundle of Pumpkin Seeds(500)
 resourceammo44MagnumBulletAPBundleDesc,This is a compact stack of AP 44 Magnum Bullets. Use this item to open and unpack it.
 resourceammo44MagnumBulletBallBundleDesc,This is a compact stack of 44 Magnum Bullets. Use this item to open and unpack it.
 resourceammo44MagnumBulletHPBundleDesc,This is a compact stack of HP 44 Magnum Bullets. Use this item to open and unpack it.
@@ -415,3 +432,20 @@ resourceresourceBulletCasingBundleDesc,This is a compact stack of Bullet Casings
 resourcetoolBeakerBundleDesc,This is a compact stack of Beakers. Use this item to open and unpack it.
 resourceresourceLockPickBundleDesc,This is a compact stack of Lockpicks. Use this item to open and unpack it.
 resourceresourceClothBundleDesc,This is a compact stack of Cloth Fragments. Use this item to open and unpack it.
+resourcetreePlantedOak1mBundleDesc,This is a compact stack of Oak Seeds. Use this item to open and unpack it.
+resourcetreePlantedMountainPine1mBundleDesc,This is a compact stack of Pine Seeds. Use this item to open and unpack it.
+resourcetreePlantedWinterPine1mBundleDesc,This is a compact stack of Blue Spruce Seeds. Use this item to open and unpack it.
+resourceplantedtreeGrassSeed1BundleDesc,This is a compact stack of Grass Seeds. Use this item to open and unpack it.
+resourceplantedMushroom1BundleDesc,This is a compact stack of Mushroom Spores. Use this item to open and unpack it.
+resourceplantedYucca1BundleDesc,This is a compact stack of Yucca Seeds. Use this item to open and unpack it.
+resourceplantedCotton1BundleDesc,This is a compact stack of Cotton Seeds. Use this item to open and unpack it.
+resourceplantedCoffee1BundleDesc,This is a compact stack of Coffee Seeds. Use this item to open and unpack it.
+resourceplantedGoldenrod1BundleDesc,This is a compact stack of Goldenrod Seeds. Use this item to open and unpack it.
+resourceplantedAloe1BundleDesc,This is a compact stack of Aloe Vera Seeds. Use this item to open and unpack it.
+resourceplantedBlueberry1BundleDesc,This is a compact stack of Blueberry Seeds. Use this item to open and unpack it.
+resourceplantedPotato1BundleDesc,This is a compact stack of Potato Seeds. Use this item to open and unpack it.
+resourceplantedChrysanthemum1BundleDesc,This is a compact stack of Chrysanthemum Seeds. Use this item to open and unpack it.
+resourceplantedCorn1BundleDesc,This is a compact stack of Corn Seeds. Use this item to open and unpack it.
+resourceplantedGraceCorn1BundleDesc,This is a compact stack of Super Corn Seeds. Use this item to open and unpack it.
+resourceplantedHop1BundleDesc,This is a compact stack of Hop Seeds. Use this item to open and unpack it.
+resourceplantedPumpkin1BundleDesc,This is a compact stack of Pumpkin Seeds. Use this item to open and unpack it.

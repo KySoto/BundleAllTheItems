@@ -624,6 +624,57 @@
 		<recipe name="resourceresourceClothBundle" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceCloth" count="250"/>
 		</recipe>
+		<recipe name="resourcetreePlantedOak1mBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedOak1m" count="500"/>
+		</recipe>
+		<recipe name="resourcetreePlantedMountainPine1mBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedMountainPine1m" count="500"/>
+		</recipe>
+		<recipe name="resourcetreePlantedWinterPine1mBundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="treePlantedWinterPine1m" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedtreeGrassSeed1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedtreeGrassSeed1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedMushroom1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedMushroom1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedYucca1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedYucca1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedCotton1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedCotton1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedCoffee1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedCoffee1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedGoldenrod1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedGoldenrod1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedAloe1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedAloe1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedBlueberry1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedBlueberry1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedPotato1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedPotato1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedChrysanthemum1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedChrysanthemum1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedCorn1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedCorn1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedGraceCorn1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedGraceCorn1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedHop1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedHop1" count="500"/>
+		</recipe>
+		<recipe name="resourceplantedPumpkin1Bundle" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="plantedPumpkin1" count="500"/>
+		</recipe>
 
 	</append>
 </config>
