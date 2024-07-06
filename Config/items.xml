@@ -1,4 +1,4 @@
-BundleKyDesc<config>
+<config>
 	<append xpath="/items">
 		<item name="KyBundleMaster">
 			<property name="ItemTypeIcon" value="treasure"/>
