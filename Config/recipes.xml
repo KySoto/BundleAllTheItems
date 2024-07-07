@@ -684,6 +684,9 @@
 		<recipe name="resourcecasinoCoinBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="casinoCoin" count="20000"/>
 		</recipe>
+		<recipe name="resourcesmallEngineBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="smallEngine" count="1"/>
+		</recipe>
 
 	</append>
 </config>

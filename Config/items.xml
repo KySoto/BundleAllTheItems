@@ -2071,6 +2071,15 @@
 				<property name="Create_item_count" value="20000"/>
 			</property>
 		</item>
+		<item name="resourcesmallEngineBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="smallEngine"/>
+			<property name="DescriptionKey" value="resourcesmallEngineBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="smallEngine"/>
+				<property name="Create_item_count" value="1"/>
+			</property>
+		</item>
 
 	</append>
 </config>
