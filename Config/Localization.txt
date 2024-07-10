@@ -148,7 +148,6 @@ resourceHop1BundleKy,Bundle of Hop Seeds(500)
 resourceMushroom1BundleKy,Bundle of Mushroom Spores(500)
 resourcePotato1BundleKy,Bundle of Potato Seeds(500)
 resourcePumpkin1BundleKy,Bundle of Pumpkin Seeds(500)
-resourcetreeGrassSeed1BundleKy,Bundle of Grass Seeds(500)
 resourceYucca1BundleKy,Bundle of Yucca Seeds(500)
 resourceAcidBundleKy,Bundle of Bottles of Acid(100)
 resourceAnimalFatBundleKy,Bundle of Animal Fat(500)
@@ -226,6 +225,7 @@ resourceTruck4x4ChassisBundleKy,Bundle of 4x4 Truck Chassis(50)
 resourceWheelsBundleKy,Bundle of Wheels(50)
 resourceScrapPolymersBundleKy,Bundle of Scrap Polymers(1000)
 resourceRadiatorBundleKy,Bundle of Radiators(5)
+resourcecasinoCoinBundleKy,Bundle of Duke's Casino Tokens(20000)
 resourcecasinoCoinBundleKy,Bundle of Duke's Casino Tokens(20000)
 resourcesmallEngineBundleKy,Bundle of Engines(1)
 resource44MagnumBulletAPBundleKyDesc,This is a compact stack of AP 44 Magnum Bullets. Use this item to open and unpack it.
@@ -377,7 +377,6 @@ resourceHop1BundleKyDesc,This is a compact stack of Hop Seeds. Use this item to 
 resourceMushroom1BundleKyDesc,This is a compact stack of Mushroom Spores. Use this item to open and unpack it.
 resourcePotato1BundleKyDesc,This is a compact stack of Potato Seeds. Use this item to open and unpack it.
 resourcePumpkin1BundleKyDesc,This is a compact stack of Pumpkin Seeds. Use this item to open and unpack it.
-resourcetreeGrassSeed1BundleKyDesc,This is a compact stack of Grass Seeds. Use this item to open and unpack it.
 resourceYucca1BundleKyDesc,This is a compact stack of Yucca Seeds. Use this item to open and unpack it.
 resourceAcidBundleKyDesc,This is a compact stack of Bottles of Acid. Use this item to open and unpack it.
 resourceAnimalFatBundleKyDesc,This is a compact stack of Animal Fat. Use this item to open and unpack it.
@@ -455,5 +454,6 @@ resourceTruck4x4ChassisBundleKyDesc,This is a compact stack of 4x4 Truck Chassis
 resourceWheelsBundleKyDesc,This is a compact stack of Wheels. Use this item to open and unpack it.
 resourceScrapPolymersBundleKyDesc,This is a compact stack of Scrap Polymers. Use this item to open and unpack it.
 resourceRadiatorBundleKyDesc,This is a compact stack of Radiators. Use this item to open and unpack it.
+resourcecasinoCoinBundleKyDesc,This is a compact stack of Duke's Casino Tokens. Use this item to open and unpack it.
 resourcecasinoCoinBundleKyDesc,This is a compact stack of Duke's Casino Tokens. Use this item to open and unpack it.
 resourcesmallEngineBundleKyDesc,This is a compact stack of Engines. Use this item to open and unpack it.

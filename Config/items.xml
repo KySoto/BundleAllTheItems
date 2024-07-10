@@ -822,7 +822,8 @@
 		</item>
 		<item name="resourceCropGraceCornBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropGraceCorn"/>
+			<property name="CustomIcon" value="foodCropCorn"/>
+			<property name="CustomIconTint" value="ff9f9f"/>
 			<property name="DescriptionKey" value="resourceCropGraceCornBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="foodCropGraceCorn"/>
@@ -849,7 +850,7 @@
 		</item>
 		<item name="resourceCropPumpkinBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="foodCropPumpkin"/>
+			<property name="CustomIcon" value="plantedPumpkin3Harvest"/>
 			<property name="DescriptionKey" value="resourceCropPumpkinBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="foodCropPumpkin"/>
@@ -1360,15 +1361,6 @@
 				<property name="Create_item_count" value="500"/>
 			</property>
 		</item>
-		<item name="resourcetreeGrassSeed1BundleKy">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="plantedtreeGrassSeed1"/>
-			<property name="DescriptionKey" value="resourcetreeGrassSeed1BundleKyDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="plantedtreeGrassSeed1"/>
-				<property name="Create_item_count" value="500"/>
-			</property>
-		</item>
 		<item name="resourceYucca1BundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="plantedYucca1"/>
@@ -1515,7 +1507,7 @@
 		</item>
 		<item name="resourceCropChrysanthemumPlantBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropChrysanthemumPlant"/>
+			<property name="CustomIcon" value="plantedChrysanthemum3Harvest"/>
 			<property name="DescriptionKey" value="resourceCropChrysanthemumPlantBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceCropChrysanthemumPlant"/>
@@ -1533,7 +1525,7 @@
 		</item>
 		<item name="resourceCropCottonPlantBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropCottonPlant"/>
+			<property name="CustomIcon" value="plantedCotton3Harvest"/>
 			<property name="DescriptionKey" value="resourceCropCottonPlantBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceCropCottonPlant"/>
@@ -1542,7 +1534,7 @@
 		</item>
 		<item name="resourceCropGoldenrodPlantBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropGoldenrodPlant"/>
+			<property name="CustomIcon" value="plantedGoldenrod3HarvestPlayer"/>
 			<property name="DescriptionKey" value="resourceCropGoldenrodPlantBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceCropGoldenrodPlant"/>
@@ -1551,7 +1543,7 @@
 		</item>
 		<item name="resourceCropHopsFlowerBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="resourceCropHopsFlower"/>
+			<property name="CustomIcon" value="plantedHop3Harvest"/>
 			<property name="DescriptionKey" value="resourceCropHopsFlowerBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="resourceCropHopsFlower"/>
@@ -2071,6 +2063,15 @@
 				<property name="Create_item_count" value="20000"/>
 			</property>
 		</item>
+		<item name="resourcecasinoCoinBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="casinoCoin"/>
+			<property name="DescriptionKey" value="resourcecasinoCoinBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="casinoCoin"/>
+				<property name="Create_item_count" value="20000"/>
+			</property>
+		</item>
 		<item name="resourcesmallEngineBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="smallEngine"/>
@@ -2080,6 +2081,7 @@
 				<property name="Create_item_count" value="1"/>
 			</property>
 		</item>
-
 	</append>
+	<!--Make vanilla stacks the same size as my stacks-->
+	<set xpath="/items/item[@name='resourceRockSmallBundle']/property[@name='Stacknumber']/@value">20</set>
 </config>
