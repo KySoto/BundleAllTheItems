@@ -447,9 +447,6 @@
 		<recipe name="resourcePumpkin1BundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="plantedPumpkin1" count="500"/>
 		</recipe>
-		<recipe name="resourcetreeGrassSeed1BundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="plantedtreeGrassSeed1" count="500"/>
-		</recipe>
 		<recipe name="resourceYucca1BundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="plantedYucca1" count="500"/>
 		</recipe>
@@ -684,9 +681,11 @@
 		<recipe name="resourcecasinoCoinBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="casinoCoin" count="20000"/>
 		</recipe>
+		<recipe name="resourcecasinoCoinBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="casinoCoin" count="20000"/>
+		</recipe>
 		<recipe name="resourcesmallEngineBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="smallEngine" count="1"/>
 		</recipe>
-
 	</append>
 </config>
