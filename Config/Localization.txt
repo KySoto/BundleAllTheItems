@@ -226,8 +226,6 @@ resourceWheelsBundleKy,Bundle of Wheels(50)
 resourceScrapPolymersBundleKy,Bundle of Scrap Polymers(1000)
 resourceRadiatorBundleKy,Bundle of Radiators(5)
 resourcecasinoCoinBundleKy,Bundle of Duke's Casino Tokens(20000)
-resourcecasinoCoinBundleKy,Bundle of Duke's Casino Tokens(20000)
-resourcesmallEngineBundleKy,Bundle of Engines(1)
 resource44MagnumBulletAPBundleKyDesc,This is a compact stack of AP 44 Magnum Bullets. Use this item to open and unpack it.
 resource44MagnumBulletBallBundleKyDesc,This is a compact stack of 44 Magnum Bullets. Use this item to open and unpack it.
 resource44MagnumBulletHPBundleKyDesc,This is a compact stack of HP 44 Magnum Bullets. Use this item to open and unpack it.
@@ -455,5 +453,3 @@ resourceWheelsBundleKyDesc,This is a compact stack of Wheels. Use this item to o
 resourceScrapPolymersBundleKyDesc,This is a compact stack of Scrap Polymers. Use this item to open and unpack it.
 resourceRadiatorBundleKyDesc,This is a compact stack of Radiators. Use this item to open and unpack it.
 resourcecasinoCoinBundleKyDesc,This is a compact stack of Duke's Casino Tokens. Use this item to open and unpack it.
-resourcecasinoCoinBundleKyDesc,This is a compact stack of Duke's Casino Tokens. Use this item to open and unpack it.
-resourcesmallEngineBundleKyDesc,This is a compact stack of Engines. Use this item to open and unpack it.

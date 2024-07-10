@@ -18,7 +18,6 @@
 				<property name="Sound_start" value="close_garbage"/>
 			</property>
 		</item>
-		
 		<item name="resource44MagnumBulletAPBundleKy">
 			<property name="Extends" value="KyBundleMaster"/>
 			<property name="CustomIcon" value="ammo44MagnumBulletAP"/>
@@ -2063,24 +2062,7 @@
 				<property name="Create_item_count" value="20000"/>
 			</property>
 		</item>
-		<item name="resourcecasinoCoinBundleKy">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="casinoCoin"/>
-			<property name="DescriptionKey" value="resourcecasinoCoinBundleKyDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="casinoCoin"/>
-				<property name="Create_item_count" value="20000"/>
-			</property>
-		</item>
-		<item name="resourcesmallEngineBundleKy">
-			<property name="Extends" value="KyBundleMaster"/>
-			<property name="CustomIcon" value="smallEngine"/>
-			<property name="DescriptionKey" value="resourcesmallEngineBundleKyDesc"/>
-			<property class="Action0">
-				<property name="Create_item" value="smallEngine"/>
-				<property name="Create_item_count" value="1"/>
-			</property>
-		</item>
+
 	</append>
 	<!--Make vanilla stacks the same size as my stacks-->
 	<set xpath="/items/item[@name='resourceRockSmallBundle']/property[@name='Stacknumber']/@value">20</set>
