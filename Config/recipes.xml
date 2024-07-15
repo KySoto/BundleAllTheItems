@@ -681,5 +681,9 @@
 		<recipe name="resourcecasinoCoinBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="casinoCoin" count="20000"/>
 		</recipe>
+		<recipe name="resourceClayLumpBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="resourceClayLump" count="6000"/>
+		</recipe>
+
 	</append>
 </config>
