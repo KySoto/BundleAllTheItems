@@ -1871,7 +1871,7 @@
 			<property name="DescriptionKey" value="resourceAmmoPipeBombBundleKyDesc"/>
 			<property class="Action0">
 				<property name="Create_item" value="thrownAmmoPipeBomb"/>
-				<property name="Create_item_count" value="25"/>
+				<property name="Create_item_count" value="20"/>
 			</property>
 		</item>
 		<item name="resourceTimedChargeBundleKy">
@@ -2072,6 +2072,16 @@
 				<property name="Create_item_count" value="6000"/>
 			</property>
 		</item>
+		<item name="resourcesmallEngineBundleKy">
+			<property name="Extends" value="KyBundleMaster"/>
+			<property name="CustomIcon" value="smallEngine"/>
+			<property name="DescriptionKey" value="resourcesmallEngineBundleKyDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="smallEngine"/>
+				<property name="Create_item_count" value="1"/>
+			</property>
+		</item>
+
 
 	</append>
 	<!--Make vanilla stacks the same size as my stacks-->

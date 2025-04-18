@@ -4,6 +4,6 @@
 	<DisplayName value="Bundle All The Things"/>
 	<Description value="Adds bundles for all stackble items except: books, schematics and vanilla bundles like iron and stone.  Based on IDontCare's Original mod for DF, IDCMoreItemBundlesDF" />
 	<Author value="KySoto" />
-	<Version value="1.0.0.0" />
+	<Version value="1.0.2.1" />
 	<Website value="" />
 </xml>

@@ -616,7 +616,7 @@
 			<ingredient name="thrownAmmoMolotovCocktail" count="20"/>
 		</recipe>
 		<recipe name="resourceAmmoPipeBombBundleKy" count="1" craft_time="10" craft_exp_gain="0">
-			<ingredient name="thrownAmmoPipeBomb" count="25"/>
+			<ingredient name="thrownAmmoPipeBomb" count="20"/>
 		</recipe>
 		<recipe name="resourceTimedChargeBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="thrownTimedCharge" count="10"/>
@@ -683,6 +683,9 @@
 		</recipe>
 		<recipe name="resourceClayLumpBundleKy" count="1" craft_time="10" craft_exp_gain="0">
 			<ingredient name="resourceClayLump" count="6000"/>
+		</recipe>
+		<recipe name="resourcesmallEngineBundleKy" count="1" craft_time="10" craft_exp_gain="0">
+			<ingredient name="smallEngine" count="1"/>
 		</recipe>
 
 	</append>
